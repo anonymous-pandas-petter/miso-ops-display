@@ -1,0 +1,31 @@
+#!/bin/bash
+
+name: Scrape latest data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron:  '6,16,26,36,46,56 * * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v2
+    - name: Fetch latest data
+      run: |-
+        for data in fuelmix totalload Wind Solar ACE NSI5 NSI5MISO NAI5 regionaldirectionaltransfer generationoutagesplusminusfivedays
+        do
+          export output_file=$(echo "${data}.json" | awk '{print tolower($0)}')
+          curl "https://api.misoenergy.org/MISORTWDDataBroker/DataBrokerServices.asmx?messageType=get${data}&returnType=json" --compressed | jq --sort-keys . > $output_file
+        done
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "Latest data: ${timestamp}" || exit 0
+        git push
