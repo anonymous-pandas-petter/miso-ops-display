@@ -1,203 +1,11 @@
 {
   "MktDay": "09-11-2022",
-  "RefId": "11-Sep-2022 - Interval 00:00 EST",
+  "RefId": "11-Sep-2022 - Interval 01:00 EST",
   "instance": [
     {
-      "ActualDateTimeEST": "2022-09-10 12:00:00 AM",
+      "ActualDateTimeEST": "2022-09-11 12:00:00 AM",
       "ActualHourEndingEST": "1",
-      "ActualValue": "-2.88",
-      "ForecastDateTimeEST": "2022-09-10 12:00:00 AM",
-      "ForecastHourEndingEST": "1",
-      "ForecastValue": "0.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 1:00:00 AM",
-      "ActualHourEndingEST": "2",
-      "ActualValue": "-3.05",
-      "ForecastDateTimeEST": "2022-09-10 1:00:00 AM",
-      "ForecastHourEndingEST": "2",
-      "ForecastValue": "0.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 2:00:00 AM",
-      "ActualHourEndingEST": "3",
       "ActualValue": "-3.15",
-      "ForecastDateTimeEST": "2022-09-10 2:00:00 AM",
-      "ForecastHourEndingEST": "3",
-      "ForecastValue": "0.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 3:00:00 AM",
-      "ActualHourEndingEST": "4",
-      "ActualValue": "-3.16",
-      "ForecastDateTimeEST": "2022-09-10 3:00:00 AM",
-      "ForecastHourEndingEST": "4",
-      "ForecastValue": "0.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 4:00:00 AM",
-      "ActualHourEndingEST": "5",
-      "ActualValue": "-3.14",
-      "ForecastDateTimeEST": "2022-09-10 4:00:00 AM",
-      "ForecastHourEndingEST": "5",
-      "ForecastValue": "0.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 5:00:00 AM",
-      "ActualHourEndingEST": "6",
-      "ActualValue": "-3.08",
-      "ForecastDateTimeEST": "2022-09-10 5:00:00 AM",
-      "ForecastHourEndingEST": "6",
-      "ForecastValue": "0.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 6:00:00 AM",
-      "ActualHourEndingEST": "7",
-      "ActualValue": "12.17",
-      "ForecastDateTimeEST": "2022-09-10 6:00:00 AM",
-      "ForecastHourEndingEST": "7",
-      "ForecastValue": "24.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 7:00:00 AM",
-      "ActualHourEndingEST": "8",
-      "ActualValue": "355.38",
-      "ForecastDateTimeEST": "2022-09-10 7:00:00 AM",
-      "ForecastHourEndingEST": "8",
-      "ForecastValue": "240.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 8:00:00 AM",
-      "ActualHourEndingEST": "9",
-      "ActualValue": "772.06",
-      "ForecastDateTimeEST": "2022-09-10 8:00:00 AM",
-      "ForecastHourEndingEST": "9",
-      "ForecastValue": "603.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 9:00:00 AM",
-      "ActualHourEndingEST": "10",
-      "ActualValue": "1017.76",
-      "ForecastDateTimeEST": "2022-09-10 9:00:00 AM",
-      "ForecastHourEndingEST": "10",
-      "ForecastValue": "914.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 10:00:00 AM",
-      "ActualHourEndingEST": "11",
-      "ActualValue": "1225.36",
-      "ForecastDateTimeEST": "2022-09-10 10:00:00 AM",
-      "ForecastHourEndingEST": "11",
-      "ForecastValue": "1110.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 11:00:00 AM",
-      "ActualHourEndingEST": "12",
-      "ActualValue": "1282.69",
-      "ForecastDateTimeEST": "2022-09-10 11:00:00 AM",
-      "ForecastHourEndingEST": "12",
-      "ForecastValue": "1245.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 12:00:00 PM",
-      "ActualHourEndingEST": "13",
-      "ActualValue": "1387.58",
-      "ForecastDateTimeEST": "2022-09-10 12:00:00 PM",
-      "ForecastHourEndingEST": "13",
-      "ForecastValue": "1282.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 1:00:00 PM",
-      "ActualHourEndingEST": "14",
-      "ActualValue": "1201.74",
-      "ForecastDateTimeEST": "2022-09-10 1:00:00 PM",
-      "ForecastHourEndingEST": "14",
-      "ForecastValue": "1181.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 2:00:00 PM",
-      "ActualHourEndingEST": "15",
-      "ActualValue": "1101.74",
-      "ForecastDateTimeEST": "2022-09-10 2:00:00 PM",
-      "ForecastHourEndingEST": "15",
-      "ForecastValue": "1076.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 3:00:00 PM",
-      "ActualHourEndingEST": "16",
-      "ActualValue": "1028.73",
-      "ForecastDateTimeEST": "2022-09-10 3:00:00 PM",
-      "ForecastHourEndingEST": "16",
-      "ForecastValue": "991.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 4:00:00 PM",
-      "ActualHourEndingEST": "17",
-      "ActualValue": "916.98",
-      "ForecastDateTimeEST": "2022-09-10 4:00:00 PM",
-      "ForecastHourEndingEST": "17",
-      "ForecastValue": "775.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 5:00:00 PM",
-      "ActualHourEndingEST": "18",
-      "ActualValue": "673.45",
-      "ForecastDateTimeEST": "2022-09-10 5:00:00 PM",
-      "ForecastHourEndingEST": "18",
-      "ForecastValue": "501.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 6:00:00 PM",
-      "ActualHourEndingEST": "19",
-      "ActualValue": "187.23",
-      "ForecastDateTimeEST": "2022-09-10 6:00:00 PM",
-      "ForecastHourEndingEST": "19",
-      "ForecastValue": "135.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 7:00:00 PM",
-      "ActualHourEndingEST": "20",
-      "ActualValue": "0.71",
-      "ForecastDateTimeEST": "2022-09-10 7:00:00 PM",
-      "ForecastHourEndingEST": "20",
-      "ForecastValue": "3.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 8:00:00 PM",
-      "ActualHourEndingEST": "21",
-      "ActualValue": "-3.72",
-      "ForecastDateTimeEST": "2022-09-10 8:00:00 PM",
-      "ForecastHourEndingEST": "21",
-      "ForecastValue": "0.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 9:00:00 PM",
-      "ActualHourEndingEST": "22",
-      "ActualValue": "-3.08",
-      "ForecastDateTimeEST": "2022-09-10 9:00:00 PM",
-      "ForecastHourEndingEST": "22",
-      "ForecastValue": "0.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 10:00:00 PM",
-      "ActualHourEndingEST": "23",
-      "ActualValue": "-3.08",
-      "ForecastDateTimeEST": "2022-09-10 10:00:00 PM",
-      "ForecastHourEndingEST": "23",
-      "ForecastValue": "0.00"
-    },
-    {
-      "ActualDateTimeEST": "2022-09-10 11:00:00 PM",
-      "ActualHourEndingEST": "24",
-      "ActualValue": "-3.09",
-      "ForecastDateTimeEST": "2022-09-10 11:00:00 PM",
-      "ForecastHourEndingEST": "24",
-      "ForecastValue": "0.00"
-    },
-    {
-      "ActualDateTimeEST": null,
-      "ActualHourEndingEST": null,
-      "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 12:00:00 AM",
       "ForecastHourEndingEST": "1",
       "ForecastValue": "0.00"
@@ -248,7 +56,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 6:00:00 AM",
       "ForecastHourEndingEST": "7",
-      "ForecastValue": "11.00"
+      "ForecastValue": "10.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -256,7 +64,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 7:00:00 AM",
       "ForecastHourEndingEST": "8",
-      "ForecastValue": "185.00"
+      "ForecastValue": "181.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -264,7 +72,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 8:00:00 AM",
       "ForecastHourEndingEST": "9",
-      "ForecastValue": "423.00"
+      "ForecastValue": "440.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -272,7 +80,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 9:00:00 AM",
       "ForecastHourEndingEST": "10",
-      "ForecastValue": "590.00"
+      "ForecastValue": "609.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -280,7 +88,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 10:00:00 AM",
       "ForecastHourEndingEST": "11",
-      "ForecastValue": "710.00"
+      "ForecastValue": "736.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -288,7 +96,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 11:00:00 AM",
       "ForecastHourEndingEST": "12",
-      "ForecastValue": "799.00"
+      "ForecastValue": "831.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -296,7 +104,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 12:00:00 PM",
       "ForecastHourEndingEST": "13",
-      "ForecastValue": "856.00"
+      "ForecastValue": "921.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -304,7 +112,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 1:00:00 PM",
       "ForecastHourEndingEST": "14",
-      "ForecastValue": "835.00"
+      "ForecastValue": "899.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -312,7 +120,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 2:00:00 PM",
       "ForecastHourEndingEST": "15",
-      "ForecastValue": "779.00"
+      "ForecastValue": "849.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -320,7 +128,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 3:00:00 PM",
       "ForecastHourEndingEST": "16",
-      "ForecastValue": "712.00"
+      "ForecastValue": "785.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -328,7 +136,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 4:00:00 PM",
       "ForecastHourEndingEST": "17",
-      "ForecastValue": "620.00"
+      "ForecastValue": "657.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -336,7 +144,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 5:00:00 PM",
       "ForecastHourEndingEST": "18",
-      "ForecastValue": "441.00"
+      "ForecastValue": "469.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -344,7 +152,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 6:00:00 PM",
       "ForecastHourEndingEST": "19",
-      "ForecastValue": "131.00"
+      "ForecastValue": "155.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -352,7 +160,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 7:00:00 PM",
       "ForecastHourEndingEST": "20",
-      "ForecastValue": "5.00"
+      "ForecastValue": "8.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -383,6 +191,198 @@
       "ActualHourEndingEST": null,
       "ActualValue": null,
       "ForecastDateTimeEST": "2022-09-11 11:00:00 PM",
+      "ForecastHourEndingEST": "24",
+      "ForecastValue": "0.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 12:00:00 AM",
+      "ForecastHourEndingEST": "1",
+      "ForecastValue": "0.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 1:00:00 AM",
+      "ForecastHourEndingEST": "2",
+      "ForecastValue": "0.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 2:00:00 AM",
+      "ForecastHourEndingEST": "3",
+      "ForecastValue": "0.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 3:00:00 AM",
+      "ForecastHourEndingEST": "4",
+      "ForecastValue": "0.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 4:00:00 AM",
+      "ForecastHourEndingEST": "5",
+      "ForecastValue": "0.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 5:00:00 AM",
+      "ForecastHourEndingEST": "6",
+      "ForecastValue": "0.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 6:00:00 AM",
+      "ForecastHourEndingEST": "7",
+      "ForecastValue": "25.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 7:00:00 AM",
+      "ForecastHourEndingEST": "8",
+      "ForecastValue": "362.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 8:00:00 AM",
+      "ForecastHourEndingEST": "9",
+      "ForecastValue": "719.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 9:00:00 AM",
+      "ForecastHourEndingEST": "10",
+      "ForecastValue": "924.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 10:00:00 AM",
+      "ForecastHourEndingEST": "11",
+      "ForecastValue": "1072.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 11:00:00 AM",
+      "ForecastHourEndingEST": "12",
+      "ForecastValue": "1115.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 12:00:00 PM",
+      "ForecastHourEndingEST": "13",
+      "ForecastValue": "1126.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 1:00:00 PM",
+      "ForecastHourEndingEST": "14",
+      "ForecastValue": "1126.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 2:00:00 PM",
+      "ForecastHourEndingEST": "15",
+      "ForecastValue": "1110.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 3:00:00 PM",
+      "ForecastHourEndingEST": "16",
+      "ForecastValue": "1057.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 4:00:00 PM",
+      "ForecastHourEndingEST": "17",
+      "ForecastValue": "935.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 5:00:00 PM",
+      "ForecastHourEndingEST": "18",
+      "ForecastValue": "678.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 6:00:00 PM",
+      "ForecastHourEndingEST": "19",
+      "ForecastValue": "227.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 7:00:00 PM",
+      "ForecastHourEndingEST": "20",
+      "ForecastValue": "7.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 8:00:00 PM",
+      "ForecastHourEndingEST": "21",
+      "ForecastValue": "0.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 9:00:00 PM",
+      "ForecastHourEndingEST": "22",
+      "ForecastValue": "0.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 10:00:00 PM",
+      "ForecastHourEndingEST": "23",
+      "ForecastValue": "0.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2022-09-12 11:00:00 PM",
       "ForecastHourEndingEST": "24",
       "ForecastValue": "0.00"
     }
