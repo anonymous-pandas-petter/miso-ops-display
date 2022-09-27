@@ -1,6 +1,6 @@
 {
   "MktDay": "09-27-2022",
-  "RefId": "27-Sep-2022 - Interval 05:00 EST",
+  "RefId": "27-Sep-2022 - Interval 06:00 EST",
   "instance": [
     {
       "ActualDateTimeEST": "2022-09-27 12:00:00 AM",
@@ -43,9 +43,9 @@
       "ForecastValue": "5694.00"
     },
     {
-      "ActualDateTimeEST": null,
-      "ActualHourEndingEST": null,
-      "ActualValue": null,
+      "ActualDateTimeEST": "2022-09-27 5:00:00 AM",
+      "ActualHourEndingEST": "6",
+      "ActualValue": "5483.35",
       "ForecastDateTimeEST": "2022-09-27 5:00:00 AM",
       "ForecastHourEndingEST": "6",
       "ForecastValue": "5860.00"
