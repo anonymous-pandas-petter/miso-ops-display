@@ -1010,6 +1010,42 @@
           "Time": "11:55",
           "Value": "65282"
         }
+      },
+      {
+        "Load": {
+          "Time": "12:00",
+          "Value": "65280"
+        }
+      },
+      {
+        "Load": {
+          "Time": "12:05",
+          "Value": "65170"
+        }
+      },
+      {
+        "Load": {
+          "Time": "12:10",
+          "Value": "65225"
+        }
+      },
+      {
+        "Load": {
+          "Time": "12:15",
+          "Value": "65360"
+        }
+      },
+      {
+        "Load": {
+          "Time": "12:20",
+          "Value": "65493"
+        }
+      },
+      {
+        "Load": {
+          "Time": "12:25",
+          "Value": "65413"
+        }
       }
     ],
     "MediumTermLoadForecast": [
@@ -1158,6 +1194,6 @@
         }
       }
     ],
-    "RefId": "08-Oct-2022 - Interval 11:55 EST"
+    "RefId": "08-Oct-2022 - Interval 12:25 EST"
   }
 }
