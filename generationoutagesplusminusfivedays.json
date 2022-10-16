@@ -1,14 +1,6 @@
 {
   "Days": [
     {
-      "Derated": 16515,
-      "Forced": 8668,
-      "OutageDate": "2022-10-10 12:00:00 AM",
-      "OutageMonthDay": "Oct-10",
-      "Planned": 39693,
-      "Unplanned": 6179
-    },
-    {
       "Derated": 17184,
       "Forced": 9051,
       "OutageDate": "2022-10-11 12:00:00 AM",
@@ -87,7 +79,15 @@
       "OutageMonthDay": "Oct-20",
       "Planned": 41107,
       "Unplanned": 3899
+    },
+    {
+      "Derated": 5204,
+      "Forced": 2881,
+      "OutageDate": "2022-10-21 12:00:00 AM",
+      "OutageMonthDay": "Oct-21",
+      "Planned": 39953,
+      "Unplanned": 3791
     }
   ],
-  "RefId": "15-Oct-2022 - Total Outage Megawatts: 73,849"
+  "RefId": "16-Oct-2022 - Total Outage Megawatts: 63,224"
 }
