@@ -1,6 +1,6 @@
 {
   "MktDay": "10-20-2022",
-  "RefId": "20-Oct-2022 - Interval 09:00 EST",
+  "RefId": "20-Oct-2022 - Interval 10:00 EST",
   "instance": [
     {
       "ActualDateTimeEST": "2022-10-20 12:00:00 AM",
@@ -75,9 +75,9 @@
       "ForecastValue": "742.00"
     },
     {
-      "ActualDateTimeEST": null,
-      "ActualHourEndingEST": null,
-      "ActualValue": null,
+      "ActualDateTimeEST": "2022-10-20 9:00:00 AM",
+      "ActualHourEndingEST": "10",
+      "ActualValue": "1392.13",
       "ForecastDateTimeEST": "2022-10-20 9:00:00 AM",
       "ForecastHourEndingEST": "10",
       "ForecastValue": "1370.00"
