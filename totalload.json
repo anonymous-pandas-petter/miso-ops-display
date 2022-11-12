@@ -1,3 +1,323 @@
 {
-  "error": "no data"
+  "LoadInfo": {
+    "ClearedMW": [
+      {
+        "ClearedMWHourly": {
+          "Hour": "1",
+          "Value": "60382"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "2",
+          "Value": "59889"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "3",
+          "Value": "59674"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "4",
+          "Value": "60089"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "5",
+          "Value": "60095"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "6",
+          "Value": "60908"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "7",
+          "Value": "63492"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "8",
+          "Value": "66888"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "9",
+          "Value": "69138"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "10",
+          "Value": "70755"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "11",
+          "Value": "70877"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "12",
+          "Value": "70550"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "13",
+          "Value": "69544"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "14",
+          "Value": "69098"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "15",
+          "Value": "68628"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "16",
+          "Value": "69157"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "17",
+          "Value": "71547"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "18",
+          "Value": "75760"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "19",
+          "Value": "76695"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "20",
+          "Value": "76242"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "21",
+          "Value": "74372"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "22",
+          "Value": "73157"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "23",
+          "Value": "70770"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "24",
+          "Value": "68694"
+        }
+      }
+    ],
+    "FiveMinTotalLoad": [
+      {
+        "Load": {
+          "Time": "00:20",
+          "Value": "65533"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:25",
+          "Value": "65317"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:30",
+          "Value": "65042"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:35",
+          "Value": "64720"
+        }
+      }
+    ],
+    "MediumTermLoadForecast": [
+      {
+        "Forecast": {
+          "HourEnding": "1",
+          "LoadForecast": "66578"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "2",
+          "LoadForecast": "64819"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "3",
+          "LoadForecast": "64842"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "4",
+          "LoadForecast": "64382"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "5",
+          "LoadForecast": "64426"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "6",
+          "LoadForecast": "65149"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "7",
+          "LoadForecast": "65625"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "8",
+          "LoadForecast": "67269"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "9",
+          "LoadForecast": "69616"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "10",
+          "LoadForecast": "71129"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "11",
+          "LoadForecast": "71675"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "12",
+          "LoadForecast": "71412"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "13",
+          "LoadForecast": "70766"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "14",
+          "LoadForecast": "70048"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "15",
+          "LoadForecast": "69561"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "16",
+          "LoadForecast": "69353"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "17",
+          "LoadForecast": "69927"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "18",
+          "LoadForecast": "71994"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "19",
+          "LoadForecast": "74645"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "20",
+          "LoadForecast": "74831"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "21",
+          "LoadForecast": "74044"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "22",
+          "LoadForecast": "73076"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "23",
+          "LoadForecast": "71271"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "24",
+          "LoadForecast": "68936"
+        }
+      }
+    ],
+    "RefId": "12-Nov-2022 - Interval 00:35 EST"
+  }
 }
