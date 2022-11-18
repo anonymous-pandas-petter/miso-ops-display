@@ -1,3 +1,929 @@
 {
-  "error": "no data"
+  "LoadInfo": {
+    "ClearedMW": [
+      {
+        "ClearedMWHourly": {
+          "Hour": "1",
+          "Value": "75175"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "2",
+          "Value": "73841"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "3",
+          "Value": "73735"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "4",
+          "Value": "73483"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "5",
+          "Value": "75053"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "6",
+          "Value": "76973"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "7",
+          "Value": "84845"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "8",
+          "Value": "87938"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "9",
+          "Value": "88073"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "10",
+          "Value": "86337"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "11",
+          "Value": "84807"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "12",
+          "Value": "83372"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "13",
+          "Value": "81633"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "14",
+          "Value": "81203"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "15",
+          "Value": "79959"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "16",
+          "Value": "79604"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "17",
+          "Value": "80249"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "18",
+          "Value": "84301"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "19",
+          "Value": "86336"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "20",
+          "Value": "85220"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "21",
+          "Value": "83076"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "22",
+          "Value": "82253"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "23",
+          "Value": "78977"
+        }
+      },
+      {
+        "ClearedMWHourly": {
+          "Hour": "24",
+          "Value": "76777"
+        }
+      }
+    ],
+    "FiveMinTotalLoad": [
+      {
+        "Load": {
+          "Time": "00:00",
+          "Value": "76763"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:05",
+          "Value": "76506"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:10",
+          "Value": "76214"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:15",
+          "Value": "75900"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:20",
+          "Value": "75944"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:25",
+          "Value": "75830"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:30",
+          "Value": "75566"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:35",
+          "Value": "75298"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:40",
+          "Value": "75403"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:45",
+          "Value": "75319"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:50",
+          "Value": "75176"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:55",
+          "Value": "74896"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:00",
+          "Value": "74867"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:05",
+          "Value": "74630"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:10",
+          "Value": "74418"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:15",
+          "Value": "74325"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:20",
+          "Value": "74309"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:25",
+          "Value": "74038"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:30",
+          "Value": "74052"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:35",
+          "Value": "73979"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:40",
+          "Value": "74096"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:45",
+          "Value": "74005"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:50",
+          "Value": "73769"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:55",
+          "Value": "73746"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:00",
+          "Value": "73706"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:05",
+          "Value": "73563"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:10",
+          "Value": "73287"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:15",
+          "Value": "73493"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:20",
+          "Value": "73561"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:25",
+          "Value": "73518"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:30",
+          "Value": "73706"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:35",
+          "Value": "73841"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:40",
+          "Value": "73734"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:45",
+          "Value": "73563"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:50",
+          "Value": "73377"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:55",
+          "Value": "73254"
+        }
+      },
+      {
+        "Load": {
+          "Time": "03:00",
+          "Value": "73224"
+        }
+      },
+      {
+        "Load": {
+          "Time": "03:05",
+          "Value": "73142"
+        }
+      },
+      {
+        "Load": {
+          "Time": "03:10",
+          "Value": "73440"
+        }
+      },
+      {
+        "Load": {
+          "Time": "03:15",
+          "Value": "73468"
+        }
+      },
+      {
+        "Load": {
+          "Time": "03:20",
+          "Value": "73339"
+        }
+      },
+      {
+        "Load": {
+          "Time": "03:25",
+          "Value": "73558"
+        }
+      },
+      {
+        "Load": {
+          "Time": "03:30",
+          "Value": "73530"
+        }
+      },
+      {
+        "Load": {
+          "Time": "03:35",
+          "Value": "73473"
+        }
+      },
+      {
+        "Load": {
+          "Time": "03:40",
+          "Value": "73375"
+        }
+      },
+      {
+        "Load": {
+          "Time": "03:45",
+          "Value": "73313"
+        }
+      },
+      {
+        "Load": {
+          "Time": "03:50",
+          "Value": "73576"
+        }
+      },
+      {
+        "Load": {
+          "Time": "03:55",
+          "Value": "73678"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:00",
+          "Value": "73666"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:05",
+          "Value": "73695"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:10",
+          "Value": "73782"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:15",
+          "Value": "74011"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:20",
+          "Value": "74254"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:25",
+          "Value": "74159"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:30",
+          "Value": "74058"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:35",
+          "Value": "74035"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:40",
+          "Value": "74028"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:45",
+          "Value": "74203"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:50",
+          "Value": "74627"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:55",
+          "Value": "74765"
+        }
+      },
+      {
+        "Load": {
+          "Time": "05:00",
+          "Value": "75016"
+        }
+      },
+      {
+        "Load": {
+          "Time": "05:05",
+          "Value": "75036"
+        }
+      },
+      {
+        "Load": {
+          "Time": "05:10",
+          "Value": "75353"
+        }
+      },
+      {
+        "Load": {
+          "Time": "05:15",
+          "Value": "75798"
+        }
+      },
+      {
+        "Load": {
+          "Time": "05:20",
+          "Value": "76024"
+        }
+      },
+      {
+        "Load": {
+          "Time": "05:25",
+          "Value": "76119"
+        }
+      },
+      {
+        "Load": {
+          "Time": "05:30",
+          "Value": "76274"
+        }
+      },
+      {
+        "Load": {
+          "Time": "05:35",
+          "Value": "76549"
+        }
+      },
+      {
+        "Load": {
+          "Time": "05:40",
+          "Value": "76833"
+        }
+      },
+      {
+        "Load": {
+          "Time": "05:45",
+          "Value": "77093"
+        }
+      },
+      {
+        "Load": {
+          "Time": "05:50",
+          "Value": "77418"
+        }
+      },
+      {
+        "Load": {
+          "Time": "05:55",
+          "Value": "77790"
+        }
+      },
+      {
+        "Load": {
+          "Time": "06:00",
+          "Value": "78006"
+        }
+      },
+      {
+        "Load": {
+          "Time": "06:05",
+          "Value": "78456"
+        }
+      },
+      {
+        "Load": {
+          "Time": "06:10",
+          "Value": "78972"
+        }
+      },
+      {
+        "Load": {
+          "Time": "06:15",
+          "Value": "79235"
+        }
+      },
+      {
+        "Load": {
+          "Time": "06:20",
+          "Value": "79815"
+        }
+      },
+      {
+        "Load": {
+          "Time": "06:25",
+          "Value": "80168"
+        }
+      },
+      {
+        "Load": {
+          "Time": "06:30",
+          "Value": "80403"
+        }
+      },
+      {
+        "Load": {
+          "Time": "06:35",
+          "Value": "80818"
+        }
+      },
+      {
+        "Load": {
+          "Time": "06:40",
+          "Value": "81490"
+        }
+      },
+      {
+        "Load": {
+          "Time": "06:45",
+          "Value": "81937"
+        }
+      },
+      {
+        "Load": {
+          "Time": "06:50",
+          "Value": "82200"
+        }
+      },
+      {
+        "Load": {
+          "Time": "06:55",
+          "Value": "82637"
+        }
+      },
+      {
+        "Load": {
+          "Time": "07:00",
+          "Value": "83056"
+        }
+      },
+      {
+        "Load": {
+          "Time": "07:05",
+          "Value": "83746"
+        }
+      },
+      {
+        "Load": {
+          "Time": "07:10",
+          "Value": "84543"
+        }
+      },
+      {
+        "Load": {
+          "Time": "07:15",
+          "Value": "84869"
+        }
+      },
+      {
+        "Load": {
+          "Time": "07:20",
+          "Value": "85321"
+        }
+      },
+      {
+        "Load": {
+          "Time": "07:25",
+          "Value": "85677"
+        }
+      },
+      {
+        "Load": {
+          "Time": "07:30",
+          "Value": "86120"
+        }
+      },
+      {
+        "Load": {
+          "Time": "07:35",
+          "Value": "86239"
+        }
+      },
+      {
+        "Load": {
+          "Time": "07:40",
+          "Value": "86517"
+        }
+      },
+      {
+        "Load": {
+          "Time": "07:45",
+          "Value": "86615"
+        }
+      },
+      {
+        "Load": {
+          "Time": "07:50",
+          "Value": "86863"
+        }
+      },
+      {
+        "Load": {
+          "Time": "07:55",
+          "Value": "86943"
+        }
+      },
+      {
+        "Load": {
+          "Time": "08:00",
+          "Value": "87128"
+        }
+      },
+      {
+        "Load": {
+          "Time": "08:05",
+          "Value": "87231"
+        }
+      },
+      {
+        "Load": {
+          "Time": "08:10",
+          "Value": "87612"
+        }
+      },
+      {
+        "Load": {
+          "Time": "08:15",
+          "Value": "87824"
+        }
+      },
+      {
+        "Load": {
+          "Time": "08:20",
+          "Value": "87924"
+        }
+      },
+      {
+        "Load": {
+          "Time": "08:25",
+          "Value": "87736"
+        }
+      },
+      {
+        "Load": {
+          "Time": "08:30",
+          "Value": "87803"
+        }
+      },
+      {
+        "Load": {
+          "Time": "08:35",
+          "Value": "87868"
+        }
+      },
+      {
+        "Load": {
+          "Time": "08:40",
+          "Value": "87710"
+        }
+      }
+    ],
+    "MediumTermLoadForecast": [
+      {
+        "Forecast": {
+          "HourEnding": "1",
+          "LoadForecast": "75838"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "2",
+          "LoadForecast": "74668"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "3",
+          "LoadForecast": "74147"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "4",
+          "LoadForecast": "73989"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "5",
+          "LoadForecast": "74727"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "6",
+          "LoadForecast": "76769"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "7",
+          "LoadForecast": "80782"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "8",
+          "LoadForecast": "85977"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "9",
+          "LoadForecast": "87733"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "10",
+          "LoadForecast": "87409"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "11",
+          "LoadForecast": "86508"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "12",
+          "LoadForecast": "85386"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "13",
+          "LoadForecast": "84046"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "14",
+          "LoadForecast": "82946"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "15",
+          "LoadForecast": "82146"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "16",
+          "LoadForecast": "81623"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "17",
+          "LoadForecast": "82053"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "18",
+          "LoadForecast": "84038"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "19",
+          "LoadForecast": "86173"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "20",
+          "LoadForecast": "85625"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "21",
+          "LoadForecast": "84688"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "22",
+          "LoadForecast": "83389"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "23",
+          "LoadForecast": "81143"
+        }
+      },
+      {
+        "Forecast": {
+          "HourEnding": "24",
+          "LoadForecast": "78301"
+        }
+      }
+    ],
+    "RefId": "18-Nov-2022 - Interval 08:40 EST"
+  }
 }
