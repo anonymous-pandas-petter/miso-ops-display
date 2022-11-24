@@ -1,6 +1,6 @@
 {
   "MktDay": "11-24-2022",
-  "RefId": "24-Nov-2022 - Interval 11:00 EST",
+  "RefId": "24-Nov-2022 - Interval 12:00 EST",
   "instance": [
     {
       "ActualDateTimeEST": "2022-11-24 12:00:00 AM",
@@ -91,9 +91,9 @@
       "ForecastValue": "10934.00"
     },
     {
-      "ActualDateTimeEST": null,
-      "ActualHourEndingEST": null,
-      "ActualValue": null,
+      "ActualDateTimeEST": "2022-11-24 11:00:00 AM",
+      "ActualHourEndingEST": "12",
+      "ActualValue": "9307.50",
       "ForecastDateTimeEST": "2022-11-24 11:00:00 AM",
       "ForecastHourEndingEST": "12",
       "ForecastValue": "10697.00"
