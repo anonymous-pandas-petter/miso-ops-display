@@ -824,6 +824,24 @@
           "Time": "10:10",
           "Value": "90202"
         }
+      },
+      {
+        "Load": {
+          "Time": "10:15",
+          "Value": "90404"
+        }
+      },
+      {
+        "Load": {
+          "Time": "10:20",
+          "Value": "90259"
+        }
+      },
+      {
+        "Load": {
+          "Time": "10:25",
+          "Value": "90336"
+        }
       }
     ],
     "MediumTermLoadForecast": [
@@ -972,6 +990,6 @@
         }
       }
     ],
-    "RefId": "19-Dec-2022 - Interval 10:10 EST"
+    "RefId": "19-Dec-2022 - Interval 10:25 EST"
   }
 }
