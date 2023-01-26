@@ -1,14 +1,6 @@
 {
   "Days": [
     {
-      "Derated": 5638,
-      "Forced": 8707,
-      "OutageDate": "2023-01-20 12:00:00 AM",
-      "OutageMonthDay": "Jan-20",
-      "Planned": 11888,
-      "Unplanned": 6870
-    },
-    {
       "Derated": 5951,
       "Forced": 8783,
       "OutageDate": "2023-01-21 12:00:00 AM",
@@ -87,7 +79,15 @@
       "OutageMonthDay": "Jan-30",
       "Planned": 10961,
       "Unplanned": 4028
+    },
+    {
+      "Derated": 3360,
+      "Forced": 2693,
+      "OutageDate": "2023-01-31 12:00:00 AM",
+      "OutageMonthDay": "Jan-31",
+      "Planned": 10936,
+      "Unplanned": 3423
     }
   ],
-  "RefId": "25-Jan-2023 - Total Outage Megawatts: 25,937"
+  "RefId": "26-Jan-2023 - Total Outage Megawatts: 25,937"
 }
