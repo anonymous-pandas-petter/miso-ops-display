@@ -2,27 +2,6 @@
   "Interval": [
     {
       "NORTH_SOUTH_LIMIT": "-3000",
-      "RAW_MW": "-139",
-      "SOUTH_NORTH_LIMIT": "2500",
-      "UDSFLOW_MW": "-499",
-      "instantEST": "2023-02-06 04:10:00 AM"
-    },
-    {
-      "NORTH_SOUTH_LIMIT": "-3000",
-      "RAW_MW": "-183",
-      "SOUTH_NORTH_LIMIT": "2500",
-      "UDSFLOW_MW": "-248",
-      "instantEST": "2023-02-06 04:15:00 AM"
-    },
-    {
-      "NORTH_SOUTH_LIMIT": "-3000",
-      "RAW_MW": "-302",
-      "SOUTH_NORTH_LIMIT": "2500",
-      "UDSFLOW_MW": "-386",
-      "instantEST": "2023-02-06 04:20:00 AM"
-    },
-    {
-      "NORTH_SOUTH_LIMIT": "-3000",
       "RAW_MW": "-100",
       "SOUTH_NORTH_LIMIT": "2500",
       "UDSFLOW_MW": "-253",
@@ -2022,7 +2001,28 @@
       "SOUTH_NORTH_LIMIT": "2500",
       "UDSFLOW_MW": "-35",
       "instantEST": "2023-02-07 04:10:00 AM"
+    },
+    {
+      "NORTH_SOUTH_LIMIT": "-3000",
+      "RAW_MW": "-189",
+      "SOUTH_NORTH_LIMIT": "2500",
+      "UDSFLOW_MW": "-35",
+      "instantEST": "2023-02-07 04:15:00 AM"
+    },
+    {
+      "NORTH_SOUTH_LIMIT": "-3000",
+      "RAW_MW": "73",
+      "SOUTH_NORTH_LIMIT": "2500",
+      "UDSFLOW_MW": "-359",
+      "instantEST": "2023-02-07 04:20:00 AM"
+    },
+    {
+      "NORTH_SOUTH_LIMIT": "-3000",
+      "RAW_MW": "140",
+      "SOUTH_NORTH_LIMIT": "2500",
+      "UDSFLOW_MW": "-144",
+      "instantEST": "2023-02-07 04:25:00 AM"
     }
   ],
-  "RefId": "07-Feb-2023 - Interval 04:10 EST"
+  "RefId": "07-Feb-2023 - Interval 04:25 EST"
 }
