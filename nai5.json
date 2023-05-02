@@ -1,16 +1,6 @@
 {
-  "RefId": "02-May-2023 - Interval 04:20 EST",
+  "RefId": "02-May-2023 - Interval 04:30 EST",
   "instance": [
-    {
-      "InterfaceName": "MISO          ",
-      "NAI": "-5847.62",
-      "timestamp": "2023-05-01 04:25:00"
-    },
-    {
-      "InterfaceName": "MISO          ",
-      "NAI": "-5567.7",
-      "timestamp": "2023-05-01 04:30:00"
-    },
     {
       "InterfaceName": "MISO          ",
       "NAI": "-5400.83",
@@ -1440,6 +1430,16 @@
       "InterfaceName": "MISO          ",
       "NAI": "-5452.18",
       "timestamp": "2023-05-02 04:20:00"
+    },
+    {
+      "InterfaceName": "MISO          ",
+      "NAI": "-6103",
+      "timestamp": "2023-05-02 04:25:00"
+    },
+    {
+      "InterfaceName": "MISO          ",
+      "NAI": "-5908.97",
+      "timestamp": "2023-05-02 04:30:00"
     }
   ]
 }
