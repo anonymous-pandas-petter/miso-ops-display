@@ -1832,6 +1832,24 @@
           "Time": "23:30",
           "Value": "65001"
         }
+      },
+      {
+        "Load": {
+          "Time": "23:35",
+          "Value": "64812"
+        }
+      },
+      {
+        "Load": {
+          "Time": "23:40",
+          "Value": "64655"
+        }
+      },
+      {
+        "Load": {
+          "Time": "23:45",
+          "Value": "64226"
+        }
       }
     ],
     "MediumTermLoadForecast": [
@@ -1980,6 +1998,6 @@
         }
       }
     ],
-    "RefId": "08-May-2023 - Interval 23:30 EST"
+    "RefId": "08-May-2023 - Interval 23:45 EST"
   }
 }
