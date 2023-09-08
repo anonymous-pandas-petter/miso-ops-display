@@ -926,6 +926,36 @@
           "Time": "10:45",
           "Value": "80080"
         }
+      },
+      {
+        "Load": {
+          "Time": "10:50",
+          "Value": "80256"
+        }
+      },
+      {
+        "Load": {
+          "Time": "10:55",
+          "Value": "80123"
+        }
+      },
+      {
+        "Load": {
+          "Time": "11:00",
+          "Value": "80306"
+        }
+      },
+      {
+        "Load": {
+          "Time": "11:05",
+          "Value": "80595"
+        }
+      },
+      {
+        "Load": {
+          "Time": "11:10",
+          "Value": "80788"
+        }
       }
     ],
     "MediumTermLoadForecast": [
@@ -1074,6 +1104,6 @@
         }
       }
     ],
-    "RefId": "08-Sep-2023 - Interval 10:45 EST"
+    "RefId": "08-Sep-2023 - Interval 11:10 EST"
   }
 }
