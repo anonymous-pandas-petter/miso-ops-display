@@ -1,6 +1,6 @@
 {
-  "MktDay": "10-11-2023",
-  "RefId": "11-Oct-2023 - Interval 23:00 EST",
+  "MktDay": "10-12-2023",
+  "RefId": "12-Oct-2023 - Interval 00:00 EST",
   "instance": [
     {
       "ActualDateTimeEST": "2023-10-11 12:00:00 AM",
@@ -187,9 +187,9 @@
       "ForecastValue": "16069.00"
     },
     {
-      "ActualDateTimeEST": null,
-      "ActualHourEndingEST": null,
-      "ActualValue": null,
+      "ActualDateTimeEST": "2023-10-11 11:00:00 PM",
+      "ActualHourEndingEST": "24",
+      "ActualValue": "13234.85",
       "ForecastDateTimeEST": "2023-10-11 11:00:00 PM",
       "ForecastHourEndingEST": "24",
       "ForecastValue": "15950.00"
