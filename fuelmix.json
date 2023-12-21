@@ -2,43 +2,43 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "27485",
+        "ACT": "27975",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (27,485 MW)",
-        "INTERVALEST": "2023-12-21 12:05:00 PM"
+        "FUEL_CATEGORY": "Coal  (27,975 MW)",
+        "INTERVALEST": "2023-12-21 12:20:00 PM"
       },
       {
-        "ACT": "30672",
+        "ACT": "30515",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (30,672 MW)",
-        "INTERVALEST": "2023-12-21 12:05:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (30,515 MW)",
+        "INTERVALEST": "2023-12-21 12:20:00 PM"
       },
       {
-        "ACT": "8182",
+        "ACT": "8176",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (8,182 MW)",
-        "INTERVALEST": "2023-12-21 12:05:00 PM"
+        "FUEL_CATEGORY": "Nuclear  (8,176 MW)",
+        "INTERVALEST": "2023-12-21 12:20:00 PM"
       },
       {
-        "ACT": "5872",
+        "ACT": "5584",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (5,872 MW)",
-        "INTERVALEST": "2023-12-21 12:05:00 PM"
+        "FUEL_CATEGORY": "Wind  (5,584 MW)",
+        "INTERVALEST": "2023-12-21 12:20:00 PM"
+      },
+      {
+        "ACT": "1275",
+        "CATEGORY": "Solar",
+        "FUEL_CATEGORY": "Solar  (1,275 MW)",
+        "INTERVALEST": "2023-12-21 12:20:00 PM"
       },
       {
         "ACT": "1327",
-        "CATEGORY": "Solar",
-        "FUEL_CATEGORY": "Solar  (1,327 MW)",
-        "INTERVALEST": "2023-12-21 12:05:00 PM"
-      },
-      {
-        "ACT": "1333",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (1,333 MW)",
-        "INTERVALEST": "2023-12-21 12:05:00 PM"
+        "FUEL_CATEGORY": "Other  (1,327 MW)",
+        "INTERVALEST": "2023-12-21 12:20:00 PM"
       }
     ]
   },
-  "RefId": "21-Dec-2023 - Interval 12:05 EST",
-  "TotalMW": "74873"
+  "RefId": "21-Dec-2023 - Interval 12:20 EST",
+  "TotalMW": "74849"
 }
