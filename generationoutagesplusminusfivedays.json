@@ -1,14 +1,6 @@
 {
   "Days": [
     {
-      "Derated": 7083,
-      "Forced": 9410,
-      "OutageDate": "2023-12-23 12:00:00 AM",
-      "OutageMonthDay": "Dec-23",
-      "Planned": 9050,
-      "Unplanned": 5860
-    },
-    {
       "Derated": 7447,
       "Forced": 8015,
       "OutageDate": "2023-12-24 12:00:00 AM",
@@ -25,7 +17,7 @@
       "Unplanned": 5371
     },
     {
-      "Derated": 7060,
+      "Derated": 7090,
       "Forced": 12250,
       "OutageDate": "2023-12-26 12:00:00 AM",
       "OutageMonthDay": "Dec-26",
@@ -41,23 +33,23 @@
       "Unplanned": 6571
     },
     {
-      "Derated": 7320,
+      "Derated": 7435,
       "Forced": 7397,
       "OutageDate": "2023-12-28 12:00:00 AM",
       "OutageMonthDay": "Dec-28",
       "Planned": 7724,
-      "Unplanned": 6207
+      "Unplanned": 6233
     },
     {
-      "Derated": 7347,
-      "Forced": 5129,
+      "Derated": 7310,
+      "Forced": 4949,
       "OutageDate": "2023-12-29 12:00:00 AM",
       "OutageMonthDay": "Dec-29",
       "Planned": 7800,
       "Unplanned": 6902
     },
     {
-      "Derated": 5544,
+      "Derated": 5503,
       "Forced": 4507,
       "OutageDate": "2023-12-30 12:00:00 AM",
       "OutageMonthDay": "Dec-30",
@@ -65,7 +57,7 @@
       "Unplanned": 4855
     },
     {
-      "Derated": 4664,
+      "Derated": 4655,
       "Forced": 3714,
       "OutageDate": "2023-12-31 12:00:00 AM",
       "OutageMonthDay": "Dec-31",
@@ -73,7 +65,7 @@
       "Unplanned": 3768
     },
     {
-      "Derated": 2938,
+      "Derated": 2965,
       "Forced": 3708,
       "OutageDate": "2024-01-01 12:00:00 AM",
       "OutageMonthDay": "Jan-1",
@@ -81,13 +73,21 @@
       "Unplanned": 2395
     },
     {
-      "Derated": 2511,
+      "Derated": 2538,
       "Forced": 3577,
       "OutageDate": "2024-01-02 12:00:00 AM",
       "OutageMonthDay": "Jan-2",
       "Planned": 9499,
       "Unplanned": 2395
+    },
+    {
+      "Derated": 2106,
+      "Forced": 3162,
+      "OutageDate": "2024-01-03 12:00:00 AM",
+      "OutageMonthDay": "Jan-3",
+      "Planned": 9522,
+      "Unplanned": 2407
     }
   ],
-  "RefId": "28-Dec-2023 - Total Outage Megawatts: 27,178"
+  "RefId": "29-Dec-2023 - Total Outage Megawatts: 26,961"
 }
