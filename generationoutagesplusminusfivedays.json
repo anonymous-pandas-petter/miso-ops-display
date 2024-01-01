@@ -1,14 +1,6 @@
 {
   "Days": [
     {
-      "Derated": 7031,
-      "Forced": 12250,
-      "OutageDate": "2023-12-26 12:00:00 AM",
-      "OutageMonthDay": "Dec-26",
-      "Planned": 8520,
-      "Unplanned": 5947
-    },
-    {
       "Derated": 7400,
       "Forced": 9890,
       "OutageDate": "2023-12-27 12:00:00 AM",
@@ -41,7 +33,7 @@
       "Unplanned": 4898
     },
     {
-      "Derated": 6262,
+      "Derated": 5993,
       "Forced": 5778,
       "OutageDate": "2023-12-31 12:00:00 AM",
       "OutageMonthDay": "Dec-31",
@@ -49,11 +41,11 @@
       "Unplanned": 4429
     },
     {
-      "Derated": 4767,
+      "Derated": 4776,
       "Forced": 5440,
       "OutageDate": "2024-01-01 12:00:00 AM",
       "OutageMonthDay": "Jan-1",
-      "Planned": 9042,
+      "Planned": 9142,
       "Unplanned": 4111
     },
     {
@@ -65,7 +57,7 @@
       "Unplanned": 3884
     },
     {
-      "Derated": 3828,
+      "Derated": 3824,
       "Forced": 4064,
       "OutageDate": "2024-01-03 12:00:00 AM",
       "OutageMonthDay": "Jan-3",
@@ -87,7 +79,15 @@
       "OutageMonthDay": "Jan-5",
       "Planned": 10031,
       "Unplanned": 4152
+    },
+    {
+      "Derated": 3018,
+      "Forced": 1534,
+      "OutageDate": "2024-01-06 12:00:00 AM",
+      "OutageMonthDay": "Jan-6",
+      "Planned": 9897,
+      "Unplanned": 3600
     }
   ],
-  "RefId": "31-Dec-2023 - Total Outage Megawatts: 23,360"
+  "RefId": "01-Jan-2024 - Total Outage Megawatts: 23,469"
 }

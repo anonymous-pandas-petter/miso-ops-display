@@ -1,206 +1,14 @@
 {
   "MktDay": "01-01-2024",
-  "RefId": "01-Jan-2024 - Interval 00:00 EST",
+  "RefId": "01-Jan-2024 - Interval 01:00 EST",
   "instance": [
     {
-      "ActualDateTimeEST": "2023-12-31 12:00:00 AM",
+      "ActualDateTimeEST": "2024-01-01 12:00:00 AM",
       "ActualHourEndingEST": "1",
-      "ActualValue": "16232.77",
-      "ForecastDateTimeEST": "2023-12-31 12:00:00 AM",
-      "ForecastHourEndingEST": "1",
-      "ForecastValue": "16450.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 1:00:00 AM",
-      "ActualHourEndingEST": "2",
-      "ActualValue": "15641.87",
-      "ForecastDateTimeEST": "2023-12-31 1:00:00 AM",
-      "ForecastHourEndingEST": "2",
-      "ForecastValue": "16026.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 2:00:00 AM",
-      "ActualHourEndingEST": "3",
-      "ActualValue": "15200.86",
-      "ForecastDateTimeEST": "2023-12-31 2:00:00 AM",
-      "ForecastHourEndingEST": "3",
-      "ForecastValue": "15989.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 3:00:00 AM",
-      "ActualHourEndingEST": "4",
-      "ActualValue": "15112.18",
-      "ForecastDateTimeEST": "2023-12-31 3:00:00 AM",
-      "ForecastHourEndingEST": "4",
-      "ForecastValue": "16065.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 4:00:00 AM",
-      "ActualHourEndingEST": "5",
-      "ActualValue": "15191.89",
-      "ForecastDateTimeEST": "2023-12-31 4:00:00 AM",
-      "ForecastHourEndingEST": "5",
-      "ForecastValue": "16190.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 5:00:00 AM",
-      "ActualHourEndingEST": "6",
-      "ActualValue": "15665.74",
-      "ForecastDateTimeEST": "2023-12-31 5:00:00 AM",
-      "ForecastHourEndingEST": "6",
-      "ForecastValue": "16374.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 6:00:00 AM",
-      "ActualHourEndingEST": "7",
-      "ActualValue": "16002.92",
-      "ForecastDateTimeEST": "2023-12-31 6:00:00 AM",
-      "ForecastHourEndingEST": "7",
-      "ForecastValue": "16344.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 7:00:00 AM",
-      "ActualHourEndingEST": "8",
-      "ActualValue": "16191.45",
-      "ForecastDateTimeEST": "2023-12-31 7:00:00 AM",
-      "ForecastHourEndingEST": "8",
-      "ForecastValue": "15998.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 8:00:00 AM",
-      "ActualHourEndingEST": "9",
-      "ActualValue": "15853.87",
-      "ForecastDateTimeEST": "2023-12-31 8:00:00 AM",
-      "ForecastHourEndingEST": "9",
-      "ForecastValue": "15523.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 9:00:00 AM",
-      "ActualHourEndingEST": "10",
-      "ActualValue": "14955.42",
-      "ForecastDateTimeEST": "2023-12-31 9:00:00 AM",
-      "ForecastHourEndingEST": "10",
-      "ForecastValue": "15068.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 10:00:00 AM",
-      "ActualHourEndingEST": "11",
-      "ActualValue": "13897.27",
-      "ForecastDateTimeEST": "2023-12-31 10:00:00 AM",
-      "ForecastHourEndingEST": "11",
-      "ForecastValue": "14713.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 11:00:00 AM",
-      "ActualHourEndingEST": "12",
-      "ActualValue": "13276.26",
-      "ForecastDateTimeEST": "2023-12-31 11:00:00 AM",
-      "ForecastHourEndingEST": "12",
-      "ForecastValue": "14031.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 12:00:00 PM",
-      "ActualHourEndingEST": "13",
-      "ActualValue": "12469.83",
-      "ForecastDateTimeEST": "2023-12-31 12:00:00 PM",
-      "ForecastHourEndingEST": "13",
-      "ForecastValue": "12990.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 1:00:00 PM",
-      "ActualHourEndingEST": "14",
-      "ActualValue": "11726.56",
-      "ForecastDateTimeEST": "2023-12-31 1:00:00 PM",
-      "ForecastHourEndingEST": "14",
-      "ForecastValue": "12438.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 2:00:00 PM",
-      "ActualHourEndingEST": "15",
-      "ActualValue": "11021.63",
-      "ForecastDateTimeEST": "2023-12-31 2:00:00 PM",
-      "ForecastHourEndingEST": "15",
-      "ForecastValue": "11887.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 3:00:00 PM",
-      "ActualHourEndingEST": "16",
-      "ActualValue": "10697.10",
-      "ForecastDateTimeEST": "2023-12-31 3:00:00 PM",
-      "ForecastHourEndingEST": "16",
-      "ForecastValue": "11362.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 4:00:00 PM",
-      "ActualHourEndingEST": "17",
-      "ActualValue": "10103.21",
-      "ForecastDateTimeEST": "2023-12-31 4:00:00 PM",
-      "ForecastHourEndingEST": "17",
-      "ForecastValue": "10649.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 5:00:00 PM",
-      "ActualHourEndingEST": "18",
-      "ActualValue": "9031.36",
-      "ForecastDateTimeEST": "2023-12-31 5:00:00 PM",
-      "ForecastHourEndingEST": "18",
-      "ForecastValue": "9877.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 6:00:00 PM",
-      "ActualHourEndingEST": "19",
-      "ActualValue": "8107.53",
-      "ForecastDateTimeEST": "2023-12-31 6:00:00 PM",
-      "ForecastHourEndingEST": "19",
-      "ForecastValue": "9472.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 7:00:00 PM",
-      "ActualHourEndingEST": "20",
-      "ActualValue": "8418.70",
-      "ForecastDateTimeEST": "2023-12-31 7:00:00 PM",
-      "ForecastHourEndingEST": "20",
-      "ForecastValue": "9393.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 8:00:00 PM",
-      "ActualHourEndingEST": "21",
-      "ActualValue": "8532.74",
-      "ForecastDateTimeEST": "2023-12-31 8:00:00 PM",
-      "ForecastHourEndingEST": "21",
-      "ForecastValue": "9079.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 9:00:00 PM",
-      "ActualHourEndingEST": "22",
-      "ActualValue": "8391.82",
-      "ForecastDateTimeEST": "2023-12-31 9:00:00 PM",
-      "ForecastHourEndingEST": "22",
-      "ForecastValue": "8469.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 10:00:00 PM",
-      "ActualHourEndingEST": "23",
-      "ActualValue": "7636.92",
-      "ForecastDateTimeEST": "2023-12-31 10:00:00 PM",
-      "ForecastHourEndingEST": "23",
-      "ForecastValue": "7718.00"
-    },
-    {
-      "ActualDateTimeEST": "2023-12-31 11:00:00 PM",
-      "ActualHourEndingEST": "24",
-      "ActualValue": "6786.31",
-      "ForecastDateTimeEST": "2023-12-31 11:00:00 PM",
-      "ForecastHourEndingEST": "24",
-      "ForecastValue": "6977.00"
-    },
-    {
-      "ActualDateTimeEST": null,
-      "ActualHourEndingEST": null,
-      "ActualValue": null,
+      "ActualValue": "6301.66",
       "ForecastDateTimeEST": "2024-01-01 12:00:00 AM",
       "ForecastHourEndingEST": "1",
-      "ForecastValue": "6397.00"
+      "ForecastValue": "6694.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -208,7 +16,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 1:00:00 AM",
       "ForecastHourEndingEST": "2",
-      "ForecastValue": "6038.00"
+      "ForecastValue": "6374.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -216,7 +24,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 2:00:00 AM",
       "ForecastHourEndingEST": "3",
-      "ForecastValue": "5850.00"
+      "ForecastValue": "6104.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -224,7 +32,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 3:00:00 AM",
       "ForecastHourEndingEST": "4",
-      "ForecastValue": "5689.00"
+      "ForecastValue": "5756.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -232,7 +40,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 4:00:00 AM",
       "ForecastHourEndingEST": "5",
-      "ForecastValue": "5523.00"
+      "ForecastValue": "5463.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -240,7 +48,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 5:00:00 AM",
       "ForecastHourEndingEST": "6",
-      "ForecastValue": "5356.00"
+      "ForecastValue": "5310.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -248,7 +56,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 6:00:00 AM",
       "ForecastHourEndingEST": "7",
-      "ForecastValue": "5159.00"
+      "ForecastValue": "5208.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -256,7 +64,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 7:00:00 AM",
       "ForecastHourEndingEST": "8",
-      "ForecastValue": "4694.00"
+      "ForecastValue": "5209.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -264,7 +72,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 8:00:00 AM",
       "ForecastHourEndingEST": "9",
-      "ForecastValue": "4612.00"
+      "ForecastValue": "5277.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -272,7 +80,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 9:00:00 AM",
       "ForecastHourEndingEST": "10",
-      "ForecastValue": "4801.00"
+      "ForecastValue": "5390.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -280,7 +88,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 10:00:00 AM",
       "ForecastHourEndingEST": "11",
-      "ForecastValue": "4716.00"
+      "ForecastValue": "5195.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -288,7 +96,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 11:00:00 AM",
       "ForecastHourEndingEST": "12",
-      "ForecastValue": "4393.00"
+      "ForecastValue": "4936.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -296,7 +104,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 12:00:00 PM",
       "ForecastHourEndingEST": "13",
-      "ForecastValue": "4568.00"
+      "ForecastValue": "5218.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -304,7 +112,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 1:00:00 PM",
       "ForecastHourEndingEST": "14",
-      "ForecastValue": "5321.00"
+      "ForecastValue": "5961.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -312,7 +120,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 2:00:00 PM",
       "ForecastHourEndingEST": "15",
-      "ForecastValue": "6000.00"
+      "ForecastValue": "6643.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -320,7 +128,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 3:00:00 PM",
       "ForecastHourEndingEST": "16",
-      "ForecastValue": "6535.00"
+      "ForecastValue": "7377.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -328,7 +136,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 4:00:00 PM",
       "ForecastHourEndingEST": "17",
-      "ForecastValue": "7327.00"
+      "ForecastValue": "8406.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -336,7 +144,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 5:00:00 PM",
       "ForecastHourEndingEST": "18",
-      "ForecastValue": "8880.00"
+      "ForecastValue": "10185.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -344,7 +152,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 6:00:00 PM",
       "ForecastHourEndingEST": "19",
-      "ForecastValue": "11164.00"
+      "ForecastValue": "12438.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -352,7 +160,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 7:00:00 PM",
       "ForecastHourEndingEST": "20",
-      "ForecastValue": "13885.00"
+      "ForecastValue": "14510.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -360,7 +168,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 8:00:00 PM",
       "ForecastHourEndingEST": "21",
-      "ForecastValue": "15751.00"
+      "ForecastValue": "16137.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -368,7 +176,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 9:00:00 PM",
       "ForecastHourEndingEST": "22",
-      "ForecastValue": "17091.00"
+      "ForecastValue": "17351.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -376,7 +184,7 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 10:00:00 PM",
       "ForecastHourEndingEST": "23",
-      "ForecastValue": "17965.00"
+      "ForecastValue": "18163.00"
     },
     {
       "ActualDateTimeEST": null,
@@ -384,7 +192,199 @@
       "ActualValue": null,
       "ForecastDateTimeEST": "2024-01-01 11:00:00 PM",
       "ForecastHourEndingEST": "24",
-      "ForecastValue": "18484.00"
+      "ForecastValue": "18564.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 12:00:00 AM",
+      "ForecastHourEndingEST": "1",
+      "ForecastValue": "18748.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 1:00:00 AM",
+      "ForecastHourEndingEST": "2",
+      "ForecastValue": "18454.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 2:00:00 AM",
+      "ForecastHourEndingEST": "3",
+      "ForecastValue": "17979.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 3:00:00 AM",
+      "ForecastHourEndingEST": "4",
+      "ForecastValue": "17477.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 4:00:00 AM",
+      "ForecastHourEndingEST": "5",
+      "ForecastValue": "17015.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 5:00:00 AM",
+      "ForecastHourEndingEST": "6",
+      "ForecastValue": "16438.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 6:00:00 AM",
+      "ForecastHourEndingEST": "7",
+      "ForecastValue": "15629.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 7:00:00 AM",
+      "ForecastHourEndingEST": "8",
+      "ForecastValue": "14695.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 8:00:00 AM",
+      "ForecastHourEndingEST": "9",
+      "ForecastValue": "13996.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 9:00:00 AM",
+      "ForecastHourEndingEST": "10",
+      "ForecastValue": "13302.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 10:00:00 AM",
+      "ForecastHourEndingEST": "11",
+      "ForecastValue": "12203.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 11:00:00 AM",
+      "ForecastHourEndingEST": "12",
+      "ForecastValue": "11365.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 12:00:00 PM",
+      "ForecastHourEndingEST": "13",
+      "ForecastValue": "11323.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 1:00:00 PM",
+      "ForecastHourEndingEST": "14",
+      "ForecastValue": "11421.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 2:00:00 PM",
+      "ForecastHourEndingEST": "15",
+      "ForecastValue": "11225.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 3:00:00 PM",
+      "ForecastHourEndingEST": "16",
+      "ForecastValue": "10882.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 4:00:00 PM",
+      "ForecastHourEndingEST": "17",
+      "ForecastValue": "10421.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 5:00:00 PM",
+      "ForecastHourEndingEST": "18",
+      "ForecastValue": "10172.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 6:00:00 PM",
+      "ForecastHourEndingEST": "19",
+      "ForecastValue": "10409.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 7:00:00 PM",
+      "ForecastHourEndingEST": "20",
+      "ForecastValue": "10827.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 8:00:00 PM",
+      "ForecastHourEndingEST": "21",
+      "ForecastValue": "10366.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 9:00:00 PM",
+      "ForecastHourEndingEST": "22",
+      "ForecastValue": "9659.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 10:00:00 PM",
+      "ForecastHourEndingEST": "23",
+      "ForecastValue": "8908.00"
+    },
+    {
+      "ActualDateTimeEST": null,
+      "ActualHourEndingEST": null,
+      "ActualValue": null,
+      "ForecastDateTimeEST": "2024-01-02 11:00:00 PM",
+      "ForecastHourEndingEST": "24",
+      "ForecastValue": "8204.00"
     }
   ]
 }
