@@ -206,6 +206,36 @@
           "Time": "00:45",
           "Value": "65281"
         }
+      },
+      {
+        "Load": {
+          "Time": "00:50",
+          "Value": "65285"
+        }
+      },
+      {
+        "Load": {
+          "Time": "00:55",
+          "Value": "65100"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:00",
+          "Value": "64910"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:05",
+          "Value": "64825"
+        }
+      },
+      {
+        "Load": {
+          "Time": "01:10",
+          "Value": "64743"
+        }
       }
     ],
     "MediumTermLoadForecast": [
@@ -354,6 +384,6 @@
         }
       }
     ],
-    "RefId": "04-Feb-2024 - Interval 00:45 EST"
+    "RefId": "04-Feb-2024 - Interval 01:10 EST"
   }
 }
