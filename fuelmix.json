@@ -2,49 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "11956",
-        "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (11,956 MW)",
-        "INTERVALEST": "2024-02-26 1:45:00 AM"
-      },
-      {
-        "ACT": "20494",
-        "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (20,494 MW)",
-        "INTERVALEST": "2024-02-26 1:45:00 AM"
-      },
-      {
         "ACT": "11351",
-        "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (11,351 MW)",
-        "INTERVALEST": "2024-02-26 1:45:00 AM"
+        "CATEGORY": "Coal",
+        "FUEL_CATEGORY": "Coal  (11,351 MW)",
+        "INTERVALEST": "2024-02-26 2:10:00 AM"
       },
       {
-        "ACT": "15550",
+        "ACT": "19826",
+        "CATEGORY": "Natural Gas",
+        "FUEL_CATEGORY": "Natural Gas  (19,826 MW)",
+        "INTERVALEST": "2024-02-26 2:10:00 AM"
+      },
+      {
+        "ACT": "11358",
+        "CATEGORY": "Nuclear",
+        "FUEL_CATEGORY": "Nuclear  (11,358 MW)",
+        "INTERVALEST": "2024-02-26 2:10:00 AM"
+      },
+      {
+        "ACT": "15903",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (15,550 MW)",
-        "INTERVALEST": "2024-02-26 1:45:00 AM"
+        "FUEL_CATEGORY": "Wind  (15,903 MW)",
+        "INTERVALEST": "2024-02-26 2:10:00 AM"
       },
       {
         "ACT": "-1",
         "CATEGORY": "Solar",
         "FUEL_CATEGORY": "Solar  (-1 MW)",
-        "INTERVALEST": "2024-02-26 1:45:00 AM"
+        "INTERVALEST": "2024-02-26 2:10:00 AM"
       },
       {
-        "ACT": "-216",
+        "ACT": "-207",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (-216 MW)",
-        "INTERVALEST": "2024-02-26 1:45:00 AM"
+        "FUEL_CATEGORY": "Other  (-207 MW)",
+        "INTERVALEST": "2024-02-26 2:10:00 AM"
       },
       {
-        "ACT": "733",
+        "ACT": "1274",
         "CATEGORY": "Imports",
-        "FUEL_CATEGORY": "Imports (733.00 MW)",
-        "INTERVALEST": "2024-02-26 1:45:00 AM"
+        "FUEL_CATEGORY": "Imports (1,274.00 MW)",
+        "INTERVALEST": "2024-02-26 2:10:00 AM"
       }
     ]
   },
-  "RefId": "26-Feb-2024 - Interval 01:45 EST",
-  "TotalMW": "59816"
+  "RefId": "26-Feb-2024 - Interval 02:10 EST",
+  "TotalMW": "59453"
 }
