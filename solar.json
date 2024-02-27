@@ -1,6 +1,6 @@
 {
   "MktDay": "02-27-2024",
-  "RefId": "27-Feb-2024 - Interval 11:00 EST",
+  "RefId": "27-Feb-2024 - Interval 12:00 EST",
   "instance": [
     {
       "ActualDateTimeEST": "2024-02-27 12:00:00 AM",
@@ -91,9 +91,9 @@
       "ForecastValue": "2442.00"
     },
     {
-      "ActualDateTimeEST": null,
-      "ActualHourEndingEST": null,
-      "ActualValue": null,
+      "ActualDateTimeEST": "2024-02-27 11:00:00 AM",
+      "ActualHourEndingEST": "12",
+      "ActualValue": "3324.26",
       "ForecastDateTimeEST": "2024-02-27 11:00:00 AM",
       "ForecastHourEndingEST": "12",
       "ForecastValue": "2677.00"
