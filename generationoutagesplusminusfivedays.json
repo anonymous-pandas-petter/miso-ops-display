@@ -1,14 +1,6 @@
 {
   "Days": [
     {
-      "Derated": 6580,
-      "Forced": 7119,
-      "OutageDate": "2024-02-26 12:00:00 AM",
-      "OutageMonthDay": "Feb-26",
-      "Planned": 15523,
-      "Unplanned": 7528
-    },
-    {
       "Derated": 7447,
       "Forced": 7253,
       "OutageDate": "2024-02-27 12:00:00 AM",
@@ -41,7 +33,7 @@
       "Unplanned": 7241
     },
     {
-      "Derated": 5379,
+      "Derated": 5356,
       "Forced": 6265,
       "OutageDate": "2024-03-02 12:00:00 AM",
       "OutageMonthDay": "Mar-2",
@@ -49,8 +41,8 @@
       "Unplanned": 5611
     },
     {
-      "Derated": 5830,
-      "Forced": 4833,
+      "Derated": 5837,
+      "Forced": 4762,
       "OutageDate": "2024-03-03 12:00:00 AM",
       "OutageMonthDay": "Mar-3",
       "Planned": 22199,
@@ -74,7 +66,7 @@
     },
     {
       "Derated": 4516,
-      "Forced": 2672,
+      "Forced": 3467,
       "OutageDate": "2024-03-06 12:00:00 AM",
       "OutageMonthDay": "Mar-6",
       "Planned": 23619,
@@ -82,12 +74,20 @@
     },
     {
       "Derated": 4276,
-      "Forced": 2666,
+      "Forced": 3461,
       "OutageDate": "2024-03-07 12:00:00 AM",
       "OutageMonthDay": "Mar-7",
       "Planned": 23547,
       "Unplanned": 4770
+    },
+    {
+      "Derated": 4322,
+      "Forced": 3461,
+      "OutageDate": "2024-03-08 12:00:00 AM",
+      "OutageMonthDay": "Mar-8",
+      "Planned": 23367,
+      "Unplanned": 4142
     }
   ],
-  "RefId": "02-Mar-2024 - Total Outage Megawatts: 37,412"
+  "RefId": "03-Mar-2024 - Total Outage Megawatts: 37,348"
 }
