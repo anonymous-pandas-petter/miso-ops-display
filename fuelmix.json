@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "12082",
+        "ACT": "12264",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (12,082 MW)",
-        "INTERVALEST": "2024-03-19 5:30:00 PM"
+        "FUEL_CATEGORY": "Coal  (12,264 MW)",
+        "INTERVALEST": "2024-03-19 5:45:00 PM"
       },
       {
-        "ACT": "22674",
+        "ACT": "23433",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (22,674 MW)",
-        "INTERVALEST": "2024-03-19 5:30:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (23,433 MW)",
+        "INTERVALEST": "2024-03-19 5:45:00 PM"
       },
       {
         "ACT": "9336",
         "CATEGORY": "Nuclear",
         "FUEL_CATEGORY": "Nuclear  (9,336 MW)",
-        "INTERVALEST": "2024-03-19 5:30:00 PM"
+        "INTERVALEST": "2024-03-19 5:45:00 PM"
       },
       {
-        "ACT": "21171",
+        "ACT": "20665",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (21,171 MW)",
-        "INTERVALEST": "2024-03-19 5:30:00 PM"
+        "FUEL_CATEGORY": "Wind  (20,665 MW)",
+        "INTERVALEST": "2024-03-19 5:45:00 PM"
       },
       {
-        "ACT": "3515",
+        "ACT": "2932",
         "CATEGORY": "Solar",
-        "FUEL_CATEGORY": "Solar  (3,515 MW)",
-        "INTERVALEST": "2024-03-19 5:30:00 PM"
+        "FUEL_CATEGORY": "Solar  (2,932 MW)",
+        "INTERVALEST": "2024-03-19 5:45:00 PM"
       },
       {
-        "ACT": "1357",
+        "ACT": "1379",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (1,357 MW)",
-        "INTERVALEST": "2024-03-19 5:30:00 PM"
+        "FUEL_CATEGORY": "Other  (1,379 MW)",
+        "INTERVALEST": "2024-03-19 5:45:00 PM"
+      },
+      {
+        "ACT": "109",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (109.00 MW)",
+        "INTERVALEST": "2024-03-19 5:45:00 PM"
       }
     ]
   },
-  "RefId": "19-Mar-2024 - Interval 17:30 EST",
-  "TotalMW": "70021"
+  "RefId": "19-Mar-2024 - Interval 17:45 EST",
+  "TotalMW": "70120"
 }
