@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "15457",
+        "ACT": "14936",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (15,457 MW)",
-        "INTERVALEST": "2024-04-10 11:45:00 PM"
+        "FUEL_CATEGORY": "Coal  (14,936 MW)",
+        "INTERVALEST": "2024-04-11 12:05:00 AM"
       },
       {
-        "ACT": "19463",
+        "ACT": "18876",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (19,463 MW)",
-        "INTERVALEST": "2024-04-10 11:45:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (18,876 MW)",
+        "INTERVALEST": "2024-04-11 12:05:00 AM"
       },
       {
-        "ACT": "9597",
+        "ACT": "9592",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (9,597 MW)",
-        "INTERVALEST": "2024-04-10 11:45:00 PM"
+        "FUEL_CATEGORY": "Nuclear  (9,592 MW)",
+        "INTERVALEST": "2024-04-11 12:05:00 AM"
       },
       {
-        "ACT": "15152",
+        "ACT": "15211",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (15,152 MW)",
-        "INTERVALEST": "2024-04-10 11:45:00 PM"
+        "FUEL_CATEGORY": "Wind  (15,211 MW)",
+        "INTERVALEST": "2024-04-11 12:05:00 AM"
       },
       {
         "ACT": "-1",
         "CATEGORY": "Solar",
         "FUEL_CATEGORY": "Solar  (-1 MW)",
-        "INTERVALEST": "2024-04-10 11:45:00 PM"
+        "INTERVALEST": "2024-04-11 12:05:00 AM"
       },
       {
-        "ACT": "585",
+        "ACT": "220",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (585 MW)",
-        "INTERVALEST": "2024-04-10 11:45:00 PM"
+        "FUEL_CATEGORY": "Other  (220 MW)",
+        "INTERVALEST": "2024-04-11 12:05:00 AM"
+      },
+      {
+        "ACT": "647",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (647.00 MW)",
+        "INTERVALEST": "2024-04-11 12:05:00 AM"
       }
     ]
   },
-  "RefId": "10-Apr-2024 - Interval 23:45 EST",
-  "TotalMW": "60204"
+  "RefId": "11-Apr-2024 - Interval 00:05 EST",
+  "TotalMW": "59395"
 }
