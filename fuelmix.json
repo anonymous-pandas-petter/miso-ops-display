@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "13641",
+        "ACT": "13297",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (13,641 MW)",
-        "INTERVALEST": "2024-04-11 11:45:00 PM"
+        "FUEL_CATEGORY": "Coal  (13,297 MW)",
+        "INTERVALEST": "2024-04-12 12:05:00 AM"
       },
       {
-        "ACT": "16359",
+        "ACT": "16098",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (16,359 MW)",
-        "INTERVALEST": "2024-04-11 11:45:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (16,098 MW)",
+        "INTERVALEST": "2024-04-12 12:05:00 AM"
       },
       {
-        "ACT": "9616",
+        "ACT": "9613",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (9,616 MW)",
-        "INTERVALEST": "2024-04-11 11:45:00 PM"
+        "FUEL_CATEGORY": "Nuclear  (9,613 MW)",
+        "INTERVALEST": "2024-04-12 12:05:00 AM"
       },
       {
-        "ACT": "20763",
+        "ACT": "20356",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (20,763 MW)",
-        "INTERVALEST": "2024-04-11 11:45:00 PM"
+        "FUEL_CATEGORY": "Wind  (20,356 MW)",
+        "INTERVALEST": "2024-04-12 12:05:00 AM"
       },
       {
         "ACT": "-1",
         "CATEGORY": "Solar",
         "FUEL_CATEGORY": "Solar  (-1 MW)",
-        "INTERVALEST": "2024-04-11 11:45:00 PM"
+        "INTERVALEST": "2024-04-12 12:05:00 AM"
       },
       {
-        "ACT": "706",
+        "ACT": "649",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (706 MW)",
-        "INTERVALEST": "2024-04-11 11:45:00 PM"
+        "FUEL_CATEGORY": "Other  (649 MW)",
+        "INTERVALEST": "2024-04-12 12:05:00 AM"
+      },
+      {
+        "ACT": "153",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (153.00 MW)",
+        "INTERVALEST": "2024-04-12 12:05:00 AM"
       }
     ]
   },
-  "RefId": "11-Apr-2024 - Interval 23:45 EST",
-  "TotalMW": "60934"
+  "RefId": "12-Apr-2024 - Interval 00:05 EST",
+  "TotalMW": "60080"
 }
