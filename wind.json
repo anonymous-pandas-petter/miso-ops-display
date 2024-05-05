@@ -1,6 +1,6 @@
 {
   "MktDay": "05-05-2024",
-  "RefId": "05-May-2024 - Interval 08:00 EST",
+  "RefId": "05-May-2024 - Interval 10:00 EST",
   "instance": [
     {
       "ActualDateTimeEST": "2024-05-05 12:00:00 AM",
@@ -67,17 +67,17 @@
       "ForecastValue": "4255.00"
     },
     {
-      "ActualDateTimeEST": null,
-      "ActualHourEndingEST": null,
-      "ActualValue": null,
+      "ActualDateTimeEST": "2024-05-05 8:00:00 AM",
+      "ActualHourEndingEST": "9",
+      "ActualValue": "3589.38",
       "ForecastDateTimeEST": "2024-05-05 8:00:00 AM",
       "ForecastHourEndingEST": "9",
       "ForecastValue": "3825.00"
     },
     {
-      "ActualDateTimeEST": null,
-      "ActualHourEndingEST": null,
-      "ActualValue": null,
+      "ActualDateTimeEST": "2024-05-05 9:00:00 AM",
+      "ActualHourEndingEST": "10",
+      "ActualValue": "2995.73",
       "ForecastDateTimeEST": "2024-05-05 9:00:00 AM",
       "ForecastHourEndingEST": "10",
       "ForecastValue": "3340.00"
