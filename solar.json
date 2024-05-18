@@ -1,6 +1,6 @@
 {
   "MktDay": "05-18-2024",
-  "RefId": "18-May-2024 - Interval 06:00 EST",
+  "RefId": "18-May-2024 - Interval 07:00 EST",
   "instance": [
     {
       "ActualDateTimeEST": "2024-05-18 12:00:00 AM",
@@ -51,9 +51,9 @@
       "ForecastValue": "67.00"
     },
     {
-      "ActualDateTimeEST": null,
-      "ActualHourEndingEST": null,
-      "ActualValue": null,
+      "ActualDateTimeEST": "2024-05-18 6:00:00 AM",
+      "ActualHourEndingEST": "7",
+      "ActualValue": "920.64",
       "ForecastDateTimeEST": "2024-05-18 6:00:00 AM",
       "ForecastHourEndingEST": "7",
       "ForecastValue": "890.00"
