@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "23987",
+        "ACT": "24300",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (23,987 MW)",
-        "INTERVALEST": "2024-05-18 4:15:00 PM"
+        "FUEL_CATEGORY": "Coal  (24,300 MW)",
+        "INTERVALEST": "2024-05-18 4:30:00 PM"
       },
       {
-        "ACT": "27393",
+        "ACT": "27459",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (27,393 MW)",
-        "INTERVALEST": "2024-05-18 4:15:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (27,459 MW)",
+        "INTERVALEST": "2024-05-18 4:30:00 PM"
       },
       {
-        "ACT": "10626",
+        "ACT": "10625",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (10,626 MW)",
-        "INTERVALEST": "2024-05-18 4:15:00 PM"
+        "FUEL_CATEGORY": "Nuclear  (10,625 MW)",
+        "INTERVALEST": "2024-05-18 4:30:00 PM"
       },
       {
-        "ACT": "14042",
+        "ACT": "13911",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (14,042 MW)",
-        "INTERVALEST": "2024-05-18 4:15:00 PM"
+        "FUEL_CATEGORY": "Wind  (13,911 MW)",
+        "INTERVALEST": "2024-05-18 4:30:00 PM"
       },
       {
-        "ACT": "5438",
+        "ACT": "5542",
         "CATEGORY": "Solar",
-        "FUEL_CATEGORY": "Solar  (5,438 MW)",
-        "INTERVALEST": "2024-05-18 4:15:00 PM"
+        "FUEL_CATEGORY": "Solar  (5,542 MW)",
+        "INTERVALEST": "2024-05-18 4:30:00 PM"
       },
       {
-        "ACT": "3262",
+        "ACT": "3239",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (3,262 MW)",
-        "INTERVALEST": "2024-05-18 4:15:00 PM"
+        "FUEL_CATEGORY": "Other  (3,239 MW)",
+        "INTERVALEST": "2024-05-18 4:30:00 PM"
+      },
+      {
+        "ACT": "122",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (122.00 MW)",
+        "INTERVALEST": "2024-05-18 4:30:00 PM"
       }
     ]
   },
-  "RefId": "18-May-2024 - Interval 16:15 EST",
-  "TotalMW": "84676"
+  "RefId": "18-May-2024 - Interval 16:30 EST",
+  "TotalMW": "85128"
 }
