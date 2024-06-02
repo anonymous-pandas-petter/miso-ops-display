@@ -1,11 +1,6 @@
 {
-  "RefId": "02-Jun-2024 - Interval 00:25 EST",
+  "RefId": "02-Jun-2024 - Interval 00:30 EST",
   "instance": [
-    {
-      "InterfaceName": "MISO          ",
-      "NAI": "-4854.78",
-      "timestamp": "2024-06-01 00:25:00"
-    },
     {
       "InterfaceName": "MISO          ",
       "NAI": "-5220.38",
@@ -1440,6 +1435,11 @@
       "InterfaceName": "MISO          ",
       "NAI": "-5473.4",
       "timestamp": "2024-06-02 00:25:00"
+    },
+    {
+      "InterfaceName": "MISO          ",
+      "NAI": "-5667.63",
+      "timestamp": "2024-06-02 00:30:00"
     }
   ]
 }
