@@ -302,6 +302,24 @@
           "Time": "02:05",
           "Value": "64812"
         }
+      },
+      {
+        "Load": {
+          "Time": "02:10",
+          "Value": "64608"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:15",
+          "Value": "64410"
+        }
+      },
+      {
+        "Load": {
+          "Time": "02:20",
+          "Value": "64023"
+        }
       }
     ],
     "MediumTermLoadForecast": [
@@ -450,6 +468,6 @@
         }
       }
     ],
-    "RefId": "06-Jul-2024 - Interval 02:05 EST"
+    "RefId": "06-Jul-2024 - Interval 02:20 EST"
   }
 }
