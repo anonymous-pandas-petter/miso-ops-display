@@ -2,49 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "34234",
+        "ACT": "32750",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (34,234 MW)",
-        "INTERVALEST": "2024-08-30 7:55:00 PM"
+        "FUEL_CATEGORY": "Coal  (32,750 MW)",
+        "INTERVALEST": "2024-08-30 9:05:00 PM"
       },
       {
-        "ACT": "38865",
+        "ACT": "36720",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (38,865 MW)",
-        "INTERVALEST": "2024-08-30 7:55:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (36,720 MW)",
+        "INTERVALEST": "2024-08-30 9:05:00 PM"
       },
       {
-        "ACT": "11585",
+        "ACT": "11577",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (11,585 MW)",
-        "INTERVALEST": "2024-08-30 7:55:00 PM"
-      },
-      {
-        "ACT": "2947",
-        "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (2,947 MW)",
-        "INTERVALEST": "2024-08-30 7:55:00 PM"
-      },
-      {
-        "ACT": "11",
-        "CATEGORY": "Solar",
-        "FUEL_CATEGORY": "Solar  (11 MW)",
-        "INTERVALEST": "2024-08-30 7:55:00 PM"
+        "FUEL_CATEGORY": "Nuclear  (11,577 MW)",
+        "INTERVALEST": "2024-08-30 9:05:00 PM"
       },
       {
         "ACT": "2817",
-        "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (2,817 MW)",
-        "INTERVALEST": "2024-08-30 7:55:00 PM"
+        "CATEGORY": "Wind",
+        "FUEL_CATEGORY": "Wind  (2,817 MW)",
+        "INTERVALEST": "2024-08-30 9:05:00 PM"
       },
       {
-        "ACT": "3331",
+        "ACT": "-2",
+        "CATEGORY": "Solar",
+        "FUEL_CATEGORY": "Solar  (-2 MW)",
+        "INTERVALEST": "2024-08-30 9:05:00 PM"
+      },
+      {
+        "ACT": "1356",
+        "CATEGORY": "Other",
+        "FUEL_CATEGORY": "Other  (1,356 MW)",
+        "INTERVALEST": "2024-08-30 9:05:00 PM"
+      },
+      {
+        "ACT": "4161",
         "CATEGORY": "Imports",
-        "FUEL_CATEGORY": "Imports (3,331.00 MW)",
-        "INTERVALEST": "2024-08-30 7:55:00 PM"
+        "FUEL_CATEGORY": "Imports (4,161.00 MW)",
+        "INTERVALEST": "2024-08-30 9:05:00 PM"
       }
     ]
   },
-  "RefId": "30-Aug-2024 - Interval 19:55 EST",
-  "TotalMW": "93870"
+  "RefId": "30-Aug-2024 - Interval 21:05 EST",
+  "TotalMW": "89499"
 }
