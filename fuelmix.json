@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "14009",
+        "ACT": "13669",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (14,009 MW)",
-        "INTERVALEST": "2024-10-22 11:45:00 PM"
+        "FUEL_CATEGORY": "Coal  (13,669 MW)",
+        "INTERVALEST": "2024-10-23 12:10:00 AM"
       },
       {
-        "ACT": "18837",
+        "ACT": "18771",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (18,837 MW)",
-        "INTERVALEST": "2024-10-22 11:45:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (18,771 MW)",
+        "INTERVALEST": "2024-10-23 12:10:00 AM"
       },
       {
-        "ACT": "9630",
+        "ACT": "9634",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (9,630 MW)",
-        "INTERVALEST": "2024-10-22 11:45:00 PM"
+        "FUEL_CATEGORY": "Nuclear  (9,634 MW)",
+        "INTERVALEST": "2024-10-23 12:10:00 AM"
       },
       {
-        "ACT": "19899",
+        "ACT": "19376",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (19,899 MW)",
-        "INTERVALEST": "2024-10-22 11:45:00 PM"
+        "FUEL_CATEGORY": "Wind  (19,376 MW)",
+        "INTERVALEST": "2024-10-23 12:10:00 AM"
       },
       {
         "ACT": "9",
         "CATEGORY": "Solar",
         "FUEL_CATEGORY": "Solar  (9 MW)",
-        "INTERVALEST": "2024-10-22 11:45:00 PM"
+        "INTERVALEST": "2024-10-23 12:10:00 AM"
       },
       {
-        "ACT": "-221",
+        "ACT": "-410",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (-221 MW)",
-        "INTERVALEST": "2024-10-22 11:45:00 PM"
+        "FUEL_CATEGORY": "Other  (-410 MW)",
+        "INTERVALEST": "2024-10-23 12:10:00 AM"
+      },
+      {
+        "ACT": "83",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (83.00 MW)",
+        "INTERVALEST": "2024-10-23 12:10:00 AM"
       }
     ]
   },
-  "RefId": "22-Oct-2024 - Interval 23:45 EST",
-  "TotalMW": "62162"
+  "RefId": "23-Oct-2024 - Interval 00:10 EST",
+  "TotalMW": "61131"
 }
