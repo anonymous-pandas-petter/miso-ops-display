@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "17085",
+        "ACT": "15946",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (17,085 MW)",
-        "INTERVALEST": "2024-10-22 9:25:00 PM"
+        "FUEL_CATEGORY": "Coal  (15,946 MW)",
+        "INTERVALEST": "2024-10-22 10:00:00 PM"
       },
       {
-        "ACT": "22825",
+        "ACT": "21871",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (22,825 MW)",
-        "INTERVALEST": "2024-10-22 9:25:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (21,871 MW)",
+        "INTERVALEST": "2024-10-22 10:00:00 PM"
       },
       {
-        "ACT": "9630",
+        "ACT": "9636",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (9,630 MW)",
-        "INTERVALEST": "2024-10-22 9:25:00 PM"
+        "FUEL_CATEGORY": "Nuclear  (9,636 MW)",
+        "INTERVALEST": "2024-10-22 10:00:00 PM"
       },
       {
-        "ACT": "20448",
+        "ACT": "20340",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (20,448 MW)",
-        "INTERVALEST": "2024-10-22 9:25:00 PM"
+        "FUEL_CATEGORY": "Wind  (20,340 MW)",
+        "INTERVALEST": "2024-10-22 10:00:00 PM"
       },
       {
-        "ACT": "110",
+        "ACT": "109",
         "CATEGORY": "Solar",
-        "FUEL_CATEGORY": "Solar  (110 MW)",
-        "INTERVALEST": "2024-10-22 9:25:00 PM"
+        "FUEL_CATEGORY": "Solar  (109 MW)",
+        "INTERVALEST": "2024-10-22 10:00:00 PM"
       },
       {
-        "ACT": "370",
+        "ACT": "359",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (370 MW)",
-        "INTERVALEST": "2024-10-22 9:25:00 PM"
+        "FUEL_CATEGORY": "Other  (359 MW)",
+        "INTERVALEST": "2024-10-22 10:00:00 PM"
+      },
+      {
+        "ACT": "3",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (3.00 MW)",
+        "INTERVALEST": "2024-10-22 10:00:00 PM"
       }
     ]
   },
-  "RefId": "22-Oct-2024 - Interval 21:25 EST",
-  "TotalMW": "70328"
+  "RefId": "22-Oct-2024 - Interval 22:00 EST",
+  "TotalMW": "68213"
 }
