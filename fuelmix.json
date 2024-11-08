@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "21153",
+        "ACT": "21633",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (21,153 MW)",
-        "INTERVALEST": "2024-11-07 9:55:00 PM"
+        "FUEL_CATEGORY": "Coal  (21,633 MW)",
+        "INTERVALEST": "2024-11-07 10:20:00 PM"
       },
       {
-        "ACT": "25399",
+        "ACT": "24311",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (25,399 MW)",
-        "INTERVALEST": "2024-11-07 9:55:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (24,311 MW)",
+        "INTERVALEST": "2024-11-07 10:20:00 PM"
       },
       {
-        "ACT": "10673",
+        "ACT": "10669",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (10,673 MW)",
-        "INTERVALEST": "2024-11-07 9:55:00 PM"
+        "FUEL_CATEGORY": "Nuclear  (10,669 MW)",
+        "INTERVALEST": "2024-11-07 10:20:00 PM"
       },
       {
-        "ACT": "13606",
+        "ACT": "13784",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (13,606 MW)",
-        "INTERVALEST": "2024-11-07 9:55:00 PM"
+        "FUEL_CATEGORY": "Wind  (13,784 MW)",
+        "INTERVALEST": "2024-11-07 10:20:00 PM"
       },
       {
         "ACT": "-4",
         "CATEGORY": "Solar",
         "FUEL_CATEGORY": "Solar  (-4 MW)",
-        "INTERVALEST": "2024-11-07 9:55:00 PM"
+        "INTERVALEST": "2024-11-07 10:20:00 PM"
       },
       {
-        "ACT": "2187",
+        "ACT": "1122",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (2,187 MW)",
-        "INTERVALEST": "2024-11-07 9:55:00 PM"
+        "FUEL_CATEGORY": "Other  (1,122 MW)",
+        "INTERVALEST": "2024-11-07 10:20:00 PM"
+      },
+      {
+        "ACT": "373",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (373.00 MW)",
+        "INTERVALEST": "2024-11-07 10:20:00 PM"
       }
     ]
   },
-  "RefId": "07-Nov-2024 - Interval 21:55 EST",
-  "TotalMW": "73043"
+  "RefId": "07-Nov-2024 - Interval 22:20 EST",
+  "TotalMW": "71779"
 }
