@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "19692",
+        "ACT": "18095",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (19,692 MW)",
-        "INTERVALEST": "2024-11-24 9:35:00 PM"
+        "FUEL_CATEGORY": "Coal  (18,095 MW)",
+        "INTERVALEST": "2024-11-24 10:15:00 PM"
       },
       {
-        "ACT": "22377",
+        "ACT": "21918",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (22,377 MW)",
-        "INTERVALEST": "2024-11-24 9:35:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (21,918 MW)",
+        "INTERVALEST": "2024-11-24 10:15:00 PM"
       },
       {
-        "ACT": "11208",
+        "ACT": "11199",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (11,208 MW)",
-        "INTERVALEST": "2024-11-24 9:35:00 PM"
+        "FUEL_CATEGORY": "Nuclear  (11,199 MW)",
+        "INTERVALEST": "2024-11-24 10:15:00 PM"
       },
       {
-        "ACT": "14672",
+        "ACT": "15276",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (14,672 MW)",
-        "INTERVALEST": "2024-11-24 9:35:00 PM"
+        "FUEL_CATEGORY": "Wind  (15,276 MW)",
+        "INTERVALEST": "2024-11-24 10:15:00 PM"
       },
       {
         "ACT": "-4",
         "CATEGORY": "Solar",
         "FUEL_CATEGORY": "Solar  (-4 MW)",
-        "INTERVALEST": "2024-11-24 9:35:00 PM"
+        "INTERVALEST": "2024-11-24 10:15:00 PM"
       },
       {
-        "ACT": "1420",
+        "ACT": "694",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (1,420 MW)",
-        "INTERVALEST": "2024-11-24 9:35:00 PM"
+        "FUEL_CATEGORY": "Other  (694 MW)",
+        "INTERVALEST": "2024-11-24 10:15:00 PM"
+      },
+      {
+        "ACT": "835",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (835.00 MW)",
+        "INTERVALEST": "2024-11-24 10:15:00 PM"
       }
     ]
   },
-  "RefId": "24-Nov-2024 - Interval 21:35 EST",
-  "TotalMW": "69320"
+  "RefId": "24-Nov-2024 - Interval 22:15 EST",
+  "TotalMW": "68010"
 }
