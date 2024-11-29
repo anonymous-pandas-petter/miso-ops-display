@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "19860",
+        "ACT": "19887",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (19,860 MW)",
-        "INTERVALEST": "2024-11-29 12:25:00 PM"
+        "FUEL_CATEGORY": "Coal  (19,887 MW)",
+        "INTERVALEST": "2024-11-29 12:35:00 PM"
       },
       {
-        "ACT": "19750",
+        "ACT": "19904",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (19,750 MW)",
-        "INTERVALEST": "2024-11-29 12:25:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (19,904 MW)",
+        "INTERVALEST": "2024-11-29 12:35:00 PM"
       },
       {
         "ACT": "11356",
         "CATEGORY": "Nuclear",
         "FUEL_CATEGORY": "Nuclear  (11,356 MW)",
-        "INTERVALEST": "2024-11-29 12:25:00 PM"
+        "INTERVALEST": "2024-11-29 12:35:00 PM"
       },
       {
-        "ACT": "15497",
+        "ACT": "15417",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (15,497 MW)",
-        "INTERVALEST": "2024-11-29 12:25:00 PM"
+        "FUEL_CATEGORY": "Wind  (15,417 MW)",
+        "INTERVALEST": "2024-11-29 12:35:00 PM"
       },
       {
-        "ACT": "5739",
+        "ACT": "5597",
         "CATEGORY": "Solar",
-        "FUEL_CATEGORY": "Solar  (5,739 MW)",
-        "INTERVALEST": "2024-11-29 12:25:00 PM"
+        "FUEL_CATEGORY": "Solar  (5,597 MW)",
+        "INTERVALEST": "2024-11-29 12:35:00 PM"
       },
       {
-        "ACT": "1162",
+        "ACT": "1145",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (1,162 MW)",
-        "INTERVALEST": "2024-11-29 12:25:00 PM"
+        "FUEL_CATEGORY": "Other  (1,145 MW)",
+        "INTERVALEST": "2024-11-29 12:35:00 PM"
+      },
+      {
+        "ACT": "145",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (145.00 MW)",
+        "INTERVALEST": "2024-11-29 12:35:00 PM"
       }
     ]
   },
-  "RefId": "29-Nov-2024 - Interval 12:25 EST",
-  "TotalMW": "73265"
+  "RefId": "29-Nov-2024 - Interval 12:35 EST",
+  "TotalMW": "73351"
 }
