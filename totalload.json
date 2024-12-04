@@ -1226,6 +1226,24 @@
           "Time": "15:15",
           "Value": "80824"
         }
+      },
+      {
+        "Load": {
+          "Time": "15:20",
+          "Value": "80624"
+        }
+      },
+      {
+        "Load": {
+          "Time": "15:25",
+          "Value": "80334"
+        }
+      },
+      {
+        "Load": {
+          "Time": "15:30",
+          "Value": "80324"
+        }
       }
     ],
     "MediumTermLoadForecast": [
@@ -1374,6 +1392,6 @@
         }
       }
     ],
-    "RefId": "04-Dec-2024 - Interval 15:15 EST"
+    "RefId": "04-Dec-2024 - Interval 15:30 EST"
   }
 }
