@@ -1,3 +1,44 @@
 {
-  "error": "no data"
+  "Fuel": {
+    "Type": [
+      {
+        "ACT": "22930",
+        "CATEGORY": "Coal",
+        "FUEL_CATEGORY": "Coal  (22,930 MW)",
+        "INTERVALEST": "2024-12-07 11:10:00 AM"
+      },
+      {
+        "ACT": "22141",
+        "CATEGORY": "Natural Gas",
+        "FUEL_CATEGORY": "Natural Gas  (22,141 MW)",
+        "INTERVALEST": "2024-12-07 11:10:00 AM"
+      },
+      {
+        "ACT": "9191",
+        "CATEGORY": "Nuclear",
+        "FUEL_CATEGORY": "Nuclear  (9,191 MW)",
+        "INTERVALEST": "2024-12-07 11:10:00 AM"
+      },
+      {
+        "ACT": "20084",
+        "CATEGORY": "Wind",
+        "FUEL_CATEGORY": "Wind  (20,084 MW)",
+        "INTERVALEST": "2024-12-07 11:10:00 AM"
+      },
+      {
+        "ACT": "4837",
+        "CATEGORY": "Solar",
+        "FUEL_CATEGORY": "Solar  (4,837 MW)",
+        "INTERVALEST": "2024-12-07 11:10:00 AM"
+      },
+      {
+        "ACT": "1084",
+        "CATEGORY": "Other",
+        "FUEL_CATEGORY": "Other  (1,084 MW)",
+        "INTERVALEST": "2024-12-07 11:10:00 AM"
+      }
+    ]
+  },
+  "RefId": "07-Dec-2024 - Interval 11:10 EST",
+  "TotalMW": "80261"
 }
