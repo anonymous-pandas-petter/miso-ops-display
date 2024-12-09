@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "19692",
+        "ACT": "18342",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (19,692 MW)",
-        "INTERVALEST": "2024-12-08 10:25:00 PM"
+        "FUEL_CATEGORY": "Coal  (18,342 MW)",
+        "INTERVALEST": "2024-12-08 10:50:00 PM"
       },
       {
-        "ACT": "20195",
+        "ACT": "19658",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (20,195 MW)",
-        "INTERVALEST": "2024-12-08 10:25:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (19,658 MW)",
+        "INTERVALEST": "2024-12-08 10:50:00 PM"
       },
       {
-        "ACT": "9351",
+        "ACT": "9347",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (9,351 MW)",
-        "INTERVALEST": "2024-12-08 10:25:00 PM"
+        "FUEL_CATEGORY": "Nuclear  (9,347 MW)",
+        "INTERVALEST": "2024-12-08 10:50:00 PM"
       },
       {
-        "ACT": "21824",
+        "ACT": "21434",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (21,824 MW)",
-        "INTERVALEST": "2024-12-08 10:25:00 PM"
+        "FUEL_CATEGORY": "Wind  (21,434 MW)",
+        "INTERVALEST": "2024-12-08 10:50:00 PM"
       },
       {
         "ACT": "-3",
         "CATEGORY": "Solar",
         "FUEL_CATEGORY": "Solar  (-3 MW)",
-        "INTERVALEST": "2024-12-08 10:25:00 PM"
+        "INTERVALEST": "2024-12-08 10:50:00 PM"
       },
       {
-        "ACT": "94",
+        "ACT": "73",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (94 MW)",
-        "INTERVALEST": "2024-12-08 10:25:00 PM"
+        "FUEL_CATEGORY": "Other  (73 MW)",
+        "INTERVALEST": "2024-12-08 10:50:00 PM"
+      },
+      {
+        "ACT": "37",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (37.00 MW)",
+        "INTERVALEST": "2024-12-08 10:50:00 PM"
       }
     ]
   },
-  "RefId": "08-Dec-2024 - Interval 22:25 EST",
-  "TotalMW": "71148"
+  "RefId": "08-Dec-2024 - Interval 22:50 EST",
+  "TotalMW": "68883"
 }
