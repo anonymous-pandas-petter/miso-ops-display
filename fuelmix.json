@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "22307",
+        "ACT": "21999",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (22,307 MW)",
-        "INTERVALEST": "2024-12-22 10:45:00 PM"
+        "FUEL_CATEGORY": "Coal  (21,999 MW)",
+        "INTERVALEST": "2024-12-22 11:10:00 PM"
       },
       {
-        "ACT": "25853",
+        "ACT": "26070",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (25,853 MW)",
-        "INTERVALEST": "2024-12-22 10:45:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (26,070 MW)",
+        "INTERVALEST": "2024-12-22 11:10:00 PM"
       },
       {
-        "ACT": "11348",
+        "ACT": "11346",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (11,348 MW)",
-        "INTERVALEST": "2024-12-22 10:45:00 PM"
+        "FUEL_CATEGORY": "Nuclear  (11,346 MW)",
+        "INTERVALEST": "2024-12-22 11:10:00 PM"
       },
       {
-        "ACT": "16912",
+        "ACT": "16261",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (16,912 MW)",
-        "INTERVALEST": "2024-12-22 10:45:00 PM"
+        "FUEL_CATEGORY": "Wind  (16,261 MW)",
+        "INTERVALEST": "2024-12-22 11:10:00 PM"
       },
       {
         "ACT": "-5",
         "CATEGORY": "Solar",
         "FUEL_CATEGORY": "Solar  (-5 MW)",
-        "INTERVALEST": "2024-12-22 10:45:00 PM"
+        "INTERVALEST": "2024-12-22 11:10:00 PM"
       },
       {
-        "ACT": "619",
+        "ACT": "198",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (619 MW)",
-        "INTERVALEST": "2024-12-22 10:45:00 PM"
+        "FUEL_CATEGORY": "Other  (198 MW)",
+        "INTERVALEST": "2024-12-22 11:10:00 PM"
+      },
+      {
+        "ACT": "20",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (20.00 MW)",
+        "INTERVALEST": "2024-12-22 11:10:00 PM"
       }
     ]
   },
-  "RefId": "22-Dec-2024 - Interval 22:45 EST",
-  "TotalMW": "76788"
+  "RefId": "22-Dec-2024 - Interval 23:10 EST",
+  "TotalMW": "75644"
 }
