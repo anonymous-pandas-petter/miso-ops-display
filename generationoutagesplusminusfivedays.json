@@ -1,14 +1,6 @@
 {
   "Days": [
     {
-      "Derated": 8381,
-      "Forced": 8625,
-      "OutageDate": "2024-12-23 12:00:00 AM",
-      "OutageMonthDay": "Dec-23",
-      "Planned": 10126,
-      "Unplanned": 4527
-    },
-    {
       "Derated": 8250,
       "Forced": 7981,
       "OutageDate": "2024-12-24 12:00:00 AM",
@@ -41,39 +33,39 @@
       "Unplanned": 6750
     },
     {
-      "Derated": 8705,
-      "Forced": 6489,
+      "Derated": 8591,
+      "Forced": 6824,
       "OutageDate": "2024-12-28 12:00:00 AM",
       "OutageMonthDay": "Dec-28",
       "Planned": 9108,
-      "Unplanned": 5702
+      "Unplanned": 5737
     },
     {
-      "Derated": 7594,
-      "Forced": 6324,
+      "Derated": 7493,
+      "Forced": 6659,
       "OutageDate": "2024-12-29 12:00:00 AM",
       "OutageMonthDay": "Dec-29",
       "Planned": 9108,
       "Unplanned": 5958
     },
     {
-      "Derated": 7272,
-      "Forced": 6324,
+      "Derated": 6924,
+      "Forced": 6659,
       "OutageDate": "2024-12-30 12:00:00 AM",
       "OutageMonthDay": "Dec-30",
       "Planned": 8912,
-      "Unplanned": 6003
+      "Unplanned": 6538
     },
     {
-      "Derated": 7264,
-      "Forced": 5344,
+      "Derated": 7061,
+      "Forced": 5679,
       "OutageDate": "2024-12-31 12:00:00 AM",
       "OutageMonthDay": "Dec-31",
       "Planned": 8952,
       "Unplanned": 4832
     },
     {
-      "Derated": 5244,
+      "Derated": 5206,
       "Forced": 3318,
       "OutageDate": "2025-01-01 12:00:00 AM",
       "OutageMonthDay": "Jan-1",
@@ -81,13 +73,21 @@
       "Unplanned": 4234
     },
     {
-      "Derated": 4522,
+      "Derated": 4484,
       "Forced": 3168,
       "OutageDate": "2025-01-02 12:00:00 AM",
       "OutageMonthDay": "Jan-2",
       "Planned": 8767,
       "Unplanned": 3541
+    },
+    {
+      "Derated": 4122,
+      "Forced": 2718,
+      "OutageDate": "2025-01-03 12:00:00 AM",
+      "OutageMonthDay": "Jan-3",
+      "Planned": 8013,
+      "Unplanned": 3541
     }
   ],
-  "RefId": "28-Dec-2024 - Total Outage Megawatts: 28,984"
+  "RefId": "29-Dec-2024 - Total Outage Megawatts: 29,218"
 }
