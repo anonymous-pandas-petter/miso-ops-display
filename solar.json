@@ -1,6 +1,6 @@
 {
   "MktDay": "12-31-2024",
-  "RefId": "31-Dec-2024 - Interval 09:00 EST",
+  "RefId": "31-Dec-2024 - Interval 11:00 EST",
   "instance": [
     {
       "ActualDateTimeEST": "2024-12-31 12:00:00 AM",
@@ -75,17 +75,17 @@
       "ForecastValue": "352.00"
     },
     {
-      "ActualDateTimeEST": null,
-      "ActualHourEndingEST": null,
-      "ActualValue": null,
+      "ActualDateTimeEST": "2024-12-31 9:00:00 AM",
+      "ActualHourEndingEST": "10",
+      "ActualValue": "1830.35",
       "ForecastDateTimeEST": "2024-12-31 9:00:00 AM",
       "ForecastHourEndingEST": "10",
       "ForecastValue": "1729.00"
     },
     {
-      "ActualDateTimeEST": null,
-      "ActualHourEndingEST": null,
-      "ActualValue": null,
+      "ActualDateTimeEST": "2024-12-31 10:00:00 AM",
+      "ActualHourEndingEST": "11",
+      "ActualValue": "2572.82",
       "ForecastDateTimeEST": "2024-12-31 10:00:00 AM",
       "ForecastHourEndingEST": "11",
       "ForecastValue": "2475.00"
