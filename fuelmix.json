@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "26148",
+        "ACT": "25403",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (26,148 MW)",
-        "INTERVALEST": "2025-01-05 1:45:00 AM"
+        "FUEL_CATEGORY": "Coal  (25,403 MW)",
+        "INTERVALEST": "2025-01-05 2:10:00 AM"
       },
       {
-        "ACT": "21986",
+        "ACT": "21890",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (21,986 MW)",
-        "INTERVALEST": "2025-01-05 1:45:00 AM"
+        "FUEL_CATEGORY": "Natural Gas  (21,890 MW)",
+        "INTERVALEST": "2025-01-05 2:10:00 AM"
       },
       {
-        "ACT": "11316",
+        "ACT": "11323",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (11,316 MW)",
-        "INTERVALEST": "2025-01-05 1:45:00 AM"
+        "FUEL_CATEGORY": "Nuclear  (11,323 MW)",
+        "INTERVALEST": "2025-01-05 2:10:00 AM"
       },
       {
-        "ACT": "13000",
+        "ACT": "13458",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (13,000 MW)",
-        "INTERVALEST": "2025-01-05 1:45:00 AM"
+        "FUEL_CATEGORY": "Wind  (13,458 MW)",
+        "INTERVALEST": "2025-01-05 2:10:00 AM"
       },
       {
         "ACT": "-4",
         "CATEGORY": "Solar",
         "FUEL_CATEGORY": "Solar  (-4 MW)",
-        "INTERVALEST": "2025-01-05 1:45:00 AM"
+        "INTERVALEST": "2025-01-05 2:10:00 AM"
       },
       {
-        "ACT": "371",
+        "ACT": "148",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (371 MW)",
-        "INTERVALEST": "2025-01-05 1:45:00 AM"
+        "FUEL_CATEGORY": "Other  (148 MW)",
+        "INTERVALEST": "2025-01-05 2:10:00 AM"
+      },
+      {
+        "ACT": "154",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (154.00 MW)",
+        "INTERVALEST": "2025-01-05 2:10:00 AM"
       }
     ]
   },
-  "RefId": "05-Jan-2025 - Interval 01:45 EST",
-  "TotalMW": "72826"
+  "RefId": "05-Jan-2025 - Interval 02:10 EST",
+  "TotalMW": "72408"
 }
