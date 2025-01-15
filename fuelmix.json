@@ -2,43 +2,49 @@
   "Fuel": {
     "Type": [
       {
-        "ACT": "25252",
+        "ACT": "25237",
         "CATEGORY": "Coal",
-        "FUEL_CATEGORY": "Coal  (25,252 MW)",
-        "INTERVALEST": "2025-01-15 3:45:00 PM"
+        "FUEL_CATEGORY": "Coal  (25,237 MW)",
+        "INTERVALEST": "2025-01-15 4:10:00 PM"
       },
       {
-        "ACT": "21231",
+        "ACT": "22027",
         "CATEGORY": "Natural Gas",
-        "FUEL_CATEGORY": "Natural Gas  (21,231 MW)",
-        "INTERVALEST": "2025-01-15 3:45:00 PM"
+        "FUEL_CATEGORY": "Natural Gas  (22,027 MW)",
+        "INTERVALEST": "2025-01-15 4:10:00 PM"
       },
       {
-        "ACT": "11335",
+        "ACT": "11327",
         "CATEGORY": "Nuclear",
-        "FUEL_CATEGORY": "Nuclear  (11,335 MW)",
-        "INTERVALEST": "2025-01-15 3:45:00 PM"
+        "FUEL_CATEGORY": "Nuclear  (11,327 MW)",
+        "INTERVALEST": "2025-01-15 4:10:00 PM"
       },
       {
-        "ACT": "18641",
+        "ACT": "18700",
         "CATEGORY": "Wind",
-        "FUEL_CATEGORY": "Wind  (18,641 MW)",
-        "INTERVALEST": "2025-01-15 3:45:00 PM"
+        "FUEL_CATEGORY": "Wind  (18,700 MW)",
+        "INTERVALEST": "2025-01-15 4:10:00 PM"
       },
       {
-        "ACT": "5678",
+        "ACT": "4851",
         "CATEGORY": "Solar",
-        "FUEL_CATEGORY": "Solar  (5,678 MW)",
-        "INTERVALEST": "2025-01-15 3:45:00 PM"
+        "FUEL_CATEGORY": "Solar  (4,851 MW)",
+        "INTERVALEST": "2025-01-15 4:10:00 PM"
       },
       {
-        "ACT": "1259",
+        "ACT": "1478",
         "CATEGORY": "Other",
-        "FUEL_CATEGORY": "Other  (1,259 MW)",
-        "INTERVALEST": "2025-01-15 3:45:00 PM"
+        "FUEL_CATEGORY": "Other  (1,478 MW)",
+        "INTERVALEST": "2025-01-15 4:10:00 PM"
+      },
+      {
+        "ACT": "226",
+        "CATEGORY": "Imports",
+        "FUEL_CATEGORY": "Imports (226.00 MW)",
+        "INTERVALEST": "2025-01-15 4:10:00 PM"
       }
     ]
   },
-  "RefId": "15-Jan-2025 - Interval 15:45 EST",
-  "TotalMW": "83489"
+  "RefId": "15-Jan-2025 - Interval 16:10 EST",
+  "TotalMW": "83842"
 }
