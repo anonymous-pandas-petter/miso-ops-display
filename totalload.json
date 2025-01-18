@@ -446,6 +446,24 @@
           "Time": "04:05",
           "Value": "67801"
         }
+      },
+      {
+        "Load": {
+          "Time": "04:10",
+          "Value": "67803"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:15",
+          "Value": "67935"
+        }
+      },
+      {
+        "Load": {
+          "Time": "04:20",
+          "Value": "68045"
+        }
       }
     ],
     "MediumTermLoadForecast": [
@@ -594,6 +612,6 @@
         }
       }
     ],
-    "RefId": "18-Jan-2025 - Interval 04:05 EST"
+    "RefId": "18-Jan-2025 - Interval 04:20 EST"
   }
 }
